@@ -1,0 +1,18 @@
+C:\Users\elkeb\source\repos\Hello Big O\bin\Debug\net5.0\Hello Big O.exe
+C:\Users\elkeb\source\repos\Hello Big O\bin\Debug\net5.0\Hello Big O.deps.json
+C:\Users\elkeb\source\repos\Hello Big O\bin\Debug\net5.0\Hello Big O.runtimeconfig.json
+C:\Users\elkeb\source\repos\Hello Big O\bin\Debug\net5.0\Hello Big O.runtimeconfig.dev.json
+C:\Users\elkeb\source\repos\Hello Big O\bin\Debug\net5.0\Hello Big O.dll
+C:\Users\elkeb\source\repos\Hello Big O\bin\Debug\net5.0\ref\Hello Big O.dll
+C:\Users\elkeb\source\repos\Hello Big O\bin\Debug\net5.0\Hello Big O.pdb
+C:\Users\elkeb\source\repos\Hello Big O\bin\Debug\net5.0\TM.ProgrammingAdvanced.dll
+C:\Users\elkeb\source\repos\Hello Big O\obj\Debug\net5.0\Hello Big O.csproj.AssemblyReference.cache
+C:\Users\elkeb\source\repos\Hello Big O\obj\Debug\net5.0\Hello Big O.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\source\repos\Hello Big O\obj\Debug\net5.0\Hello Big O.AssemblyInfoInputs.cache
+C:\Users\elkeb\source\repos\Hello Big O\obj\Debug\net5.0\Hello Big O.AssemblyInfo.cs
+C:\Users\elkeb\source\repos\Hello Big O\obj\Debug\net5.0\Hello Big O.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\source\repos\Hello Big O\obj\Debug\net5.0\Hello Big O.csproj.CopyComplete
+C:\Users\elkeb\source\repos\Hello Big O\obj\Debug\net5.0\Hello Big O.dll
+C:\Users\elkeb\source\repos\Hello Big O\obj\Debug\net5.0\ref\Hello Big O.dll
+C:\Users\elkeb\source\repos\Hello Big O\obj\Debug\net5.0\Hello Big O.pdb
+C:\Users\elkeb\source\repos\Hello Big O\obj\Debug\net5.0\Hello Big O.genruntimeconfig.cache
