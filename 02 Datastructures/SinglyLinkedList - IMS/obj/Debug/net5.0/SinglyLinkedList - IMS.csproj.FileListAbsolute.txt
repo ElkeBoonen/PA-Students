@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\SinglyLinkedList - IMS\bin\Debug\net5.0\SinglyLinkedList - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\SinglyLinkedList - IMS\bin\Debug\net5.0\SinglyLinkedList - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\SinglyLinkedList - IMS\bin\Debug\net5.0\SinglyLinkedList - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\SinglyLinkedList - IMS\bin\Debug\net5.0\SinglyLinkedList - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\SinglyLinkedList - IMS\bin\Debug\net5.0\SinglyLinkedList - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\SinglyLinkedList - IMS\bin\Debug\net5.0\ref\SinglyLinkedList - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\SinglyLinkedList - IMS\bin\Debug\net5.0\SinglyLinkedList - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\SinglyLinkedList - IMS\obj\Debug\net5.0\SinglyLinkedList - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\SinglyLinkedList - IMS\obj\Debug\net5.0\SinglyLinkedList - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\SinglyLinkedList - IMS\obj\Debug\net5.0\SinglyLinkedList - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\SinglyLinkedList - IMS\obj\Debug\net5.0\SinglyLinkedList - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\SinglyLinkedList - IMS\obj\Debug\net5.0\SinglyLinkedList - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\SinglyLinkedList - IMS\obj\Debug\net5.0\SinglyLinkedList - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\SinglyLinkedList - IMS\obj\Debug\net5.0\ref\SinglyLinkedList - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\SinglyLinkedList - IMS\obj\Debug\net5.0\SinglyLinkedList - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\SinglyLinkedList - IMS\obj\Debug\net5.0\SinglyLinkedList - IMS.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\Stack - DSPS\bin\Debug\net5.0\Stack - DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\Stack - DSPS\bin\Debug\net5.0\Stack - DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\Stack - DSPS\bin\Debug\net5.0\Stack - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\Stack - DSPS\bin\Debug\net5.0\Stack - DSPS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\Stack - DSPS\bin\Debug\net5.0\Stack - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\Stack - DSPS\bin\Debug\net5.0\ref\Stack - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\Stack - DSPS\bin\Debug\net5.0\Stack - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\Stack - DSPS\obj\Debug\net5.0\Stack - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\Stack - DSPS\obj\Debug\net5.0\Stack - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\Stack - DSPS\obj\Debug\net5.0\Stack - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\Stack - DSPS\obj\Debug\net5.0\Stack - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\Stack - DSPS\obj\Debug\net5.0\Stack - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\Stack - DSPS\obj\Debug\net5.0\Stack - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\Stack - DSPS\obj\Debug\net5.0\ref\Stack - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\Stack - DSPS\obj\Debug\net5.0\Stack - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\Stack - DSPS\obj\Debug\net5.0\Stack - DSPS.genruntimeconfig.cache
