@@ -1,0 +1,18 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\03 Sort it out\Sort - IMS\bin\Debug\net5.0\Sort - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\03 Sort it out\Sort - IMS\bin\Debug\net5.0\Sort - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\03 Sort it out\Sort - IMS\bin\Debug\net5.0\Sort - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\03 Sort it out\Sort - IMS\bin\Debug\net5.0\Sort - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\03 Sort it out\Sort - IMS\bin\Debug\net5.0\Sort - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\03 Sort it out\Sort - IMS\bin\Debug\net5.0\ref\Sort - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\03 Sort it out\Sort - IMS\bin\Debug\net5.0\Sort - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\03 Sort it out\Sort - IMS\bin\Debug\net5.0\TM.ProgrammingAdvanced.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\03 Sort it out\Sort - IMS\obj\Debug\net5.0\Sort - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\03 Sort it out\Sort - IMS\obj\Debug\net5.0\Sort - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\03 Sort it out\Sort - IMS\obj\Debug\net5.0\Sort - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\03 Sort it out\Sort - IMS\obj\Debug\net5.0\Sort - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\03 Sort it out\Sort - IMS\obj\Debug\net5.0\Sort - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\03 Sort it out\Sort - IMS\obj\Debug\net5.0\Sort - IMS.csproj.CopyComplete
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\03 Sort it out\Sort - IMS\obj\Debug\net5.0\Sort - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\03 Sort it out\Sort - IMS\obj\Debug\net5.0\ref\Sort - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\03 Sort it out\Sort - IMS\obj\Debug\net5.0\Sort - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\03 Sort it out\Sort - IMS\obj\Debug\net5.0\Sort - IMS.genruntimeconfig.cache
