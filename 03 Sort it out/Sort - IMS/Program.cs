@@ -44,15 +44,21 @@ namespace Sort___IMS
             }*/
 
             int[] array = new int[] { 24, 32, 58, 1, 5, 9, 16 };
-            Print(array);
+            //Print(array);
             SortMethods methods = new SortMethods();
             methods.Bubble(array);
-            Print(array);
+            //Print(array);
 
             KeyValuePair<string, int>[] arraySongs = songs.ToArray();
             methods.Bubble(arraySongs);
-            Print(arraySongs);
+            //Print(arraySongs);
 
+            array = new int[] { 24, 5, 58, 1, 32, 9, 16 };
+            //Print(array);
+            //methods.Selection(array);
+            //Print(array);
+
+            methods.Insertion(array);
 
         }
     }

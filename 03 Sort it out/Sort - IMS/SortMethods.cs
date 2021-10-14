@@ -34,6 +34,45 @@ namespace Sort___IMS
             }
         }
 
+        public void Selection(int[] array)
+        {
+            int smallest;
+            for (int i = 0; i < array.Length; i++)
+            {
+                smallest = i;
+                for (int j = i+1; j < array.Length; j++)
+                {
+                    if (array[j] < array[smallest])
+                    {
+                        smallest = j;
+                    }
+                }
+
+                int swap = array[smallest];
+                array[smallest] = array[i];
+                array[i] = swap;
+                Print(array);
+            }
+        }
+
+        public void Insertion(int[] array)
+        {
+            for (int i = 0; i < array.Length; i++)
+            {
+                int temp = array[i];
+
+                int j = i;
+                for (j = i; j > 0; j--)
+                {
+                    if (array[j - 1] < temp) break;
+                    
+                    array[j] = array[j - 1];
+                }
+                array[j] = temp;
+                Print(array);
+            }
+        }
+
         public void Bubble(KeyValuePair<string, int>[] songs)
         {
 

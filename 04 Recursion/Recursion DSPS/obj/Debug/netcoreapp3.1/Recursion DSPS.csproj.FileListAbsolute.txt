@@ -1,0 +1,15 @@
+C:\Users\u0116591\Desktop\Recursion DSPS\bin\Debug\netcoreapp3.1\Recursion DSPS.exe
+C:\Users\u0116591\Desktop\Recursion DSPS\obj\Debug\netcoreapp3.1\Recursion DSPS.csprojAssemblyReference.cache
+C:\Users\u0116591\Desktop\Recursion DSPS\obj\Debug\netcoreapp3.1\Recursion DSPS.AssemblyInfoInputs.cache
+C:\Users\u0116591\Desktop\Recursion DSPS\obj\Debug\netcoreapp3.1\Recursion DSPS.AssemblyInfo.cs
+C:\Users\u0116591\Desktop\Recursion DSPS\bin\Debug\netcoreapp3.1\Recursion DSPS.deps.json
+C:\Users\u0116591\Desktop\Recursion DSPS\bin\Debug\netcoreapp3.1\Recursion DSPS.runtimeconfig.json
+C:\Users\u0116591\Desktop\Recursion DSPS\bin\Debug\netcoreapp3.1\Recursion DSPS.runtimeconfig.dev.json
+C:\Users\u0116591\Desktop\Recursion DSPS\bin\Debug\netcoreapp3.1\Recursion DSPS.dll
+C:\Users\u0116591\Desktop\Recursion DSPS\bin\Debug\netcoreapp3.1\Recursion DSPS.pdb
+C:\Users\u0116591\Desktop\Recursion DSPS\bin\Debug\netcoreapp3.1\TM.ProgrammingAdvanced.dll
+C:\Users\u0116591\Desktop\Recursion DSPS\obj\Debug\netcoreapp3.1\Recursion DSPS.csproj.CoreCompileInputs.cache
+C:\Users\u0116591\Desktop\Recursion DSPS\obj\Debug\netcoreapp3.1\Recursion DSPS.csproj.CopyComplete
+C:\Users\u0116591\Desktop\Recursion DSPS\obj\Debug\netcoreapp3.1\Recursion DSPS.dll
+C:\Users\u0116591\Desktop\Recursion DSPS\obj\Debug\netcoreapp3.1\Recursion DSPS.pdb
+C:\Users\u0116591\Desktop\Recursion DSPS\obj\Debug\netcoreapp3.1\Recursion DSPS.genruntimeconfig.cache

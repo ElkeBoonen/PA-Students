@@ -1,0 +1,18 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\New folder\File in folder - IMS\bin\Debug\net5.0\File in folder - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\New folder\File in folder - IMS\bin\Debug\net5.0\File in folder - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\New folder\File in folder - IMS\bin\Debug\net5.0\File in folder - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\New folder\File in folder - IMS\bin\Debug\net5.0\File in folder - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\New folder\File in folder - IMS\bin\Debug\net5.0\File in folder - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\New folder\File in folder - IMS\bin\Debug\net5.0\ref\File in folder - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\New folder\File in folder - IMS\bin\Debug\net5.0\File in folder - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\New folder\File in folder - IMS\bin\Debug\net5.0\TM.ProgrammingAdvanced.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\New folder\File in folder - IMS\obj\Debug\net5.0\File in folder - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\New folder\File in folder - IMS\obj\Debug\net5.0\File in folder - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\New folder\File in folder - IMS\obj\Debug\net5.0\File in folder - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\New folder\File in folder - IMS\obj\Debug\net5.0\File in folder - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\New folder\File in folder - IMS\obj\Debug\net5.0\File in folder - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\New folder\File in folder - IMS\obj\Debug\net5.0\File in folder - IMS.csproj.CopyComplete
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\New folder\File in folder - IMS\obj\Debug\net5.0\File in folder - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\New folder\File in folder - IMS\obj\Debug\net5.0\ref\File in folder - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\New folder\File in folder - IMS\obj\Debug\net5.0\File in folder - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\New folder\File in folder - IMS\obj\Debug\net5.0\File in folder - IMS.genruntimeconfig.cache
