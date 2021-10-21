@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DP\DP -DSPS\bin\Debug\net5.0\DP -DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DP\DP -DSPS\bin\Debug\net5.0\DP -DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DP\DP -DSPS\bin\Debug\net5.0\DP -DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DP\DP -DSPS\bin\Debug\net5.0\DP -DSPS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DP\DP -DSPS\bin\Debug\net5.0\DP -DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DP\DP -DSPS\bin\Debug\net5.0\ref\DP -DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DP\DP -DSPS\bin\Debug\net5.0\DP -DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DP\DP -DSPS\obj\Debug\net5.0\DP -DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DP\DP -DSPS\obj\Debug\net5.0\DP -DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DP\DP -DSPS\obj\Debug\net5.0\DP -DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DP\DP -DSPS\obj\Debug\net5.0\DP -DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DP\DP -DSPS\obj\Debug\net5.0\DP -DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DP\DP -DSPS\obj\Debug\net5.0\DP -DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DP\DP -DSPS\obj\Debug\net5.0\ref\DP -DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DP\DP -DSPS\obj\Debug\net5.0\DP -DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DP\DP -DSPS\obj\Debug\net5.0\DP -DSPS.genruntimeconfig.cache
