@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\Graphs\bin\Debug\net5.0\Graphs.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\Graphs\bin\Debug\net5.0\Graphs.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\Graphs\bin\Debug\net5.0\Graphs.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\Graphs\bin\Debug\net5.0\Graphs.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\Graphs\bin\Debug\net5.0\Graphs.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\Graphs\bin\Debug\net5.0\ref\Graphs.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\Graphs\bin\Debug\net5.0\Graphs.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\Graphs\obj\Debug\net5.0\Graphs.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\Graphs\obj\Debug\net5.0\Graphs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\Graphs\obj\Debug\net5.0\Graphs.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\Graphs\obj\Debug\net5.0\Graphs.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\Graphs\obj\Debug\net5.0\Graphs.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\Graphs\obj\Debug\net5.0\Graphs.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\Graphs\obj\Debug\net5.0\ref\Graphs.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\Graphs\obj\Debug\net5.0\Graphs.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\Graphs\obj\Debug\net5.0\Graphs.genruntimeconfig.cache
