@@ -1,33 +1,25 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace Graphs
+namespace Graphs___DSPS
 {
     class Maze
     {
-        private List<int>[] _maze;
+        List<int>[] _maze;
 
         public Maze(int nodes)
         {
             _maze = new List<int>[nodes];
+            for (int i = 0; i < _maze.Length; i++)
+            {
+                _maze[i] = new List<int>();
+            }
         }
 
-        //addEdge(0,1)
         public void AddEdge(int nodeA, int nodeB)
         {
-            if (_maze[nodeA]==null)
-            {
-                _maze[nodeA] = new List<int>();
-            }
             _maze[nodeA].Add(nodeB);
-
-            if (_maze[nodeB] == null)
-            {
-                _maze[nodeB] = new List<int>();
-            }
             _maze[nodeB].Add(nodeA);
         }
 
@@ -36,36 +28,56 @@ namespace Graphs
             string s = "";
             for (int i = 0; i < _maze.Length; i++)
             {
-                s += i + " --> ";
-                if (_maze[i] != null)
+                s += $"node {i}: ";
+                foreach (var node in _maze[i])
                 {
-                    foreach (var item in _maze[i])
-                    {
-                        s += item + " ";
-                    }
+                    s += node + " ";
                 }
                 s += Environment.NewLine;
             }
             return s;
         }
 
-        public string DFS(int start)
+        public void DFS(int start)
+        {
+            bool[] visited = new bool[_maze.Length];
+            visited[start] = true;
+            DFS_Recursion(start, visited);     
+        }
+
+        public bool DFS_Recursion(int node, bool[] visited)
+        {
+            Console.Write(node + " ");
+            if (node == 0) return true;
+
+            foreach (var item in _maze[node])
+            {
+                if (!visited[item])
+                {
+                    visited[node] = true;
+                    return DFS_Recursion(item, visited);
+                }
+            }
+            return false;
+        }
+
+        public string DFS_Stack(int start)
         {
             bool[] visited = new bool[_maze.Length];
             string path = "";
 
             Stack<int> stack = new Stack<int>();
             stack.Push(start);
-            while (stack.Count != 0)
+
+            while (stack.Count > 0)
             {
                 int node = stack.Pop();
                 visited[node] = true;
-
                 path += node + " ";
 
-                if (node == 0) break; ;
+                if (node == 0) break;
 
-                foreach (int item in _maze[node])
+                foreach (var item in _maze[node])
                 {
                     if (!visited[item])
                     {
@@ -79,20 +91,21 @@ namespace Graphs
         public string BFS(int start)
         {
             bool[] visited = new bool[_maze.Length];
+            Queue<int> queue = new Queue<int>();
             string path = "";
 
-            Queue<int> queue = new Queue<int>();
             queue.Enqueue(start);
-            while (queue.Count != 0)
+
+            while (queue.Count > 0)
             {
                 int node = queue.Dequeue();
                 visited[node] = true;
 
                 path += node + " ";
 
-                if (node == 0) break; ;
+                if (node == 0) break;
 
-                foreach (int item in _maze[node])
+                foreach (var item in _maze[node])
                 {
                     if (!visited[item])
                     {
@@ -101,6 +114,8 @@ namespace Graphs
                 }
             }
             return path;
+
         }
+
     }
 }

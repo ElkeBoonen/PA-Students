@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\09 Weighted Graph\DIJKSTRA - IMS\bin\Debug\net5.0\DIJKSTRA - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\09 Weighted Graph\DIJKSTRA - IMS\bin\Debug\net5.0\DIJKSTRA - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\09 Weighted Graph\DIJKSTRA - IMS\bin\Debug\net5.0\DIJKSTRA - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\09 Weighted Graph\DIJKSTRA - IMS\bin\Debug\net5.0\DIJKSTRA - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\09 Weighted Graph\DIJKSTRA - IMS\bin\Debug\net5.0\DIJKSTRA - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\09 Weighted Graph\DIJKSTRA - IMS\bin\Debug\net5.0\ref\DIJKSTRA - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\09 Weighted Graph\DIJKSTRA - IMS\bin\Debug\net5.0\DIJKSTRA - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\09 Weighted Graph\DIJKSTRA - IMS\obj\Debug\net5.0\DIJKSTRA - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\09 Weighted Graph\DIJKSTRA - IMS\obj\Debug\net5.0\DIJKSTRA - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\09 Weighted Graph\DIJKSTRA - IMS\obj\Debug\net5.0\DIJKSTRA - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\09 Weighted Graph\DIJKSTRA - IMS\obj\Debug\net5.0\DIJKSTRA - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\09 Weighted Graph\DIJKSTRA - IMS\obj\Debug\net5.0\DIJKSTRA - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\09 Weighted Graph\DIJKSTRA - IMS\obj\Debug\net5.0\DIJKSTRA - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\09 Weighted Graph\DIJKSTRA - IMS\obj\Debug\net5.0\ref\DIJKSTRA - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\09 Weighted Graph\DIJKSTRA - IMS\obj\Debug\net5.0\DIJKSTRA - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\09 Weighted Graph\DIJKSTRA - IMS\obj\Debug\net5.0\DIJKSTRA - IMS.genruntimeconfig.cache

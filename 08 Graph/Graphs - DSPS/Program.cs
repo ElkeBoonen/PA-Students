@@ -1,13 +1,13 @@
 ﻿using System;
 
-namespace Graphs
+namespace Graphs___DSPS
 {
     class Program
     {
         static void Main(string[] args)
         {
             Maze maze = new Maze(25);
-          
+
             maze.AddEdge(0, 1);
             maze.AddEdge(1, 2);
             maze.AddEdge(2, 3);
@@ -29,11 +29,18 @@ namespace Graphs
             maze.AddEdge(10, 5);
             maze.AddEdge(5, 0);
 
-            Console.WriteLine(maze.ToString());
+            Console.WriteLine(maze);
+            Console.Write("DFS recursion: ");
+            maze.DFS(12);
+            Console.WriteLine();
+            Console.WriteLine("DFS : " + maze.DFS_Stack(12));
+            Console.WriteLine("BFS : " + maze.BFS(12));
 
-            Console.WriteLine("DFS: " + maze.DFS(12));
-
-            Console.WriteLine("BFS: " + maze.BFS(12));
+            Console.WriteLine();
+            Console.Write("DFS recursion: ");
+            maze.DFS(9);
+            Console.WriteLine("\nDFS : " + maze.DFS_Stack(9));
+            Console.WriteLine("BFS : " + maze.BFS(9));
 
         }
     }

@@ -1,13 +1,13 @@
 ﻿using System;
 
-namespace Graphs
+namespace DIJKSTRA___IMS
 {
     class Program
     {
         static void Main(string[] args)
         {
             Maze maze = new Maze(25);
-          
+
             maze.AddEdge(0, 1);
             maze.AddEdge(1, 2);
             maze.AddEdge(2, 3);
@@ -30,11 +30,6 @@ namespace Graphs
             maze.AddEdge(5, 0);
 
             Console.WriteLine(maze.ToString());
-
-            Console.WriteLine("DFS: " + maze.DFS(12));
-
-            Console.WriteLine("BFS: " + maze.BFS(12));
-
         }
     }
 }
