@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace DIJKSTRA___IMS
 {
@@ -29,7 +30,11 @@ namespace DIJKSTRA___IMS
             maze.AddEdge(10, 5);
             maze.AddEdge(5, 0);
 
-            Console.WriteLine(maze.ToString());
+            //Console.WriteLine(maze.ToString());
+            Console.WriteLine(maze.Dijkstra(12,0));
+            Console.WriteLine(maze.Dijkstra(24,5));
+            Console.WriteLine(maze.Dijkstra(0, 12));
+
         }
     }
 }
