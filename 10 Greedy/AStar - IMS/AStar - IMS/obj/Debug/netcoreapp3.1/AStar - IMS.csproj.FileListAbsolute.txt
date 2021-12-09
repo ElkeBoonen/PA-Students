@@ -1,0 +1,13 @@
+C:\Users\u0116591\Desktop\AStar - IMS\AStar - IMS\obj\Debug\netcoreapp3.1\AStar - IMS.csprojAssemblyReference.cache
+C:\Users\u0116591\Desktop\AStar - IMS\AStar - IMS\obj\Debug\netcoreapp3.1\AStar - IMS.AssemblyInfoInputs.cache
+C:\Users\u0116591\Desktop\AStar - IMS\AStar - IMS\obj\Debug\netcoreapp3.1\AStar - IMS.AssemblyInfo.cs
+C:\Users\u0116591\Desktop\AStar - IMS\AStar - IMS\obj\Debug\netcoreapp3.1\AStar - IMS.csproj.CoreCompileInputs.cache
+C:\Users\u0116591\Desktop\AStar - IMS\AStar - IMS\bin\Debug\netcoreapp3.1\AStar - IMS.exe
+C:\Users\u0116591\Desktop\AStar - IMS\AStar - IMS\bin\Debug\netcoreapp3.1\AStar - IMS.deps.json
+C:\Users\u0116591\Desktop\AStar - IMS\AStar - IMS\bin\Debug\netcoreapp3.1\AStar - IMS.runtimeconfig.json
+C:\Users\u0116591\Desktop\AStar - IMS\AStar - IMS\bin\Debug\netcoreapp3.1\AStar - IMS.runtimeconfig.dev.json
+C:\Users\u0116591\Desktop\AStar - IMS\AStar - IMS\bin\Debug\netcoreapp3.1\AStar - IMS.dll
+C:\Users\u0116591\Desktop\AStar - IMS\AStar - IMS\bin\Debug\netcoreapp3.1\AStar - IMS.pdb
+C:\Users\u0116591\Desktop\AStar - IMS\AStar - IMS\obj\Debug\netcoreapp3.1\AStar - IMS.dll
+C:\Users\u0116591\Desktop\AStar - IMS\AStar - IMS\obj\Debug\netcoreapp3.1\AStar - IMS.pdb
+C:\Users\u0116591\Desktop\AStar - IMS\AStar - IMS\obj\Debug\netcoreapp3.1\AStar - IMS.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\u0116591\Desktop\ActivitySelection\ActivitySelection\bin\Debug\netcoreapp3.1\ActivitySelection.exe
+C:\Users\u0116591\Desktop\ActivitySelection\ActivitySelection\bin\Debug\netcoreapp3.1\ActivitySelection.deps.json
+C:\Users\u0116591\Desktop\ActivitySelection\ActivitySelection\bin\Debug\netcoreapp3.1\ActivitySelection.runtimeconfig.json
+C:\Users\u0116591\Desktop\ActivitySelection\ActivitySelection\bin\Debug\netcoreapp3.1\ActivitySelection.runtimeconfig.dev.json
+C:\Users\u0116591\Desktop\ActivitySelection\ActivitySelection\bin\Debug\netcoreapp3.1\ActivitySelection.dll
+C:\Users\u0116591\Desktop\ActivitySelection\ActivitySelection\bin\Debug\netcoreapp3.1\ActivitySelection.pdb
+C:\Users\u0116591\Desktop\ActivitySelection\ActivitySelection\obj\Debug\netcoreapp3.1\ActivitySelection.csprojAssemblyReference.cache
+C:\Users\u0116591\Desktop\ActivitySelection\ActivitySelection\obj\Debug\netcoreapp3.1\ActivitySelection.AssemblyInfoInputs.cache
+C:\Users\u0116591\Desktop\ActivitySelection\ActivitySelection\obj\Debug\netcoreapp3.1\ActivitySelection.AssemblyInfo.cs
+C:\Users\u0116591\Desktop\ActivitySelection\ActivitySelection\obj\Debug\netcoreapp3.1\ActivitySelection.csproj.CoreCompileInputs.cache
+C:\Users\u0116591\Desktop\ActivitySelection\ActivitySelection\obj\Debug\netcoreapp3.1\ActivitySelection.dll
+C:\Users\u0116591\Desktop\ActivitySelection\ActivitySelection\obj\Debug\netcoreapp3.1\ActivitySelection.pdb
+C:\Users\u0116591\Desktop\ActivitySelection\ActivitySelection\obj\Debug\netcoreapp3.1\ActivitySelection.genruntimeconfig.cache
