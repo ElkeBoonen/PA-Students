@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\11 Knapsack\Knapsack - IMS\bin\Debug\net5.0\Knapsack - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\11 Knapsack\Knapsack - IMS\bin\Debug\net5.0\Knapsack - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\11 Knapsack\Knapsack - IMS\bin\Debug\net5.0\Knapsack - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\11 Knapsack\Knapsack - IMS\bin\Debug\net5.0\Knapsack - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\11 Knapsack\Knapsack - IMS\bin\Debug\net5.0\Knapsack - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\11 Knapsack\Knapsack - IMS\bin\Debug\net5.0\ref\Knapsack - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\11 Knapsack\Knapsack - IMS\bin\Debug\net5.0\Knapsack - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\11 Knapsack\Knapsack - IMS\obj\Debug\net5.0\Knapsack - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\11 Knapsack\Knapsack - IMS\obj\Debug\net5.0\Knapsack - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\11 Knapsack\Knapsack - IMS\obj\Debug\net5.0\Knapsack - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\11 Knapsack\Knapsack - IMS\obj\Debug\net5.0\Knapsack - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\11 Knapsack\Knapsack - IMS\obj\Debug\net5.0\Knapsack - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\11 Knapsack\Knapsack - IMS\obj\Debug\net5.0\Knapsack - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\11 Knapsack\Knapsack - IMS\obj\Debug\net5.0\ref\Knapsack - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\11 Knapsack\Knapsack - IMS\obj\Debug\net5.0\Knapsack - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\11 Knapsack\Knapsack - IMS\obj\Debug\net5.0\Knapsack - IMS.genruntimeconfig.cache
