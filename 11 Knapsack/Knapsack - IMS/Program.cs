@@ -16,6 +16,8 @@ namespace Knapsack___IMS
             Knapsack knapsack = new Knapsack(items, 10);
             Console.WriteLine("GREEDY: " + knapsack.Greedy());
             Console.WriteLine("BRUTE FORCE: " + knapsack.BruteForce());
+            Console.WriteLine("DIVIDE & CONQUER: " + knapsack.DivideAndConquer(0,0));
+            Console.WriteLine("DYNAMIC: " + knapsack.Dynamic());
 
         }
     }

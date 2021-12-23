@@ -1,33 +1,27 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace Knapsack___IMS
+namespace Knapsack___DSPS
 {
     class Knapsack
     {
         public List<Item> Items { get; set; }
         public int MaxWeight { get; set; }
 
-        public Knapsack(List<Item> items, int weight)
+        public Knapsack(List<Item> items, int maxweight)
         {
             Items = items;
-            MaxWeight = weight;
+            MaxWeight = maxweight;
         }
 
-        //weight 1, value 10
-        //weight 2, value 5
-        //weight 8, value 40
-        //weight 10, value 45
         public int Greedy()
         {
-            Items.Sort(); //sorteren op value: 5 10 40 45
-            Items.Reverse(); // --> 45 40 10 5
+            Items.Sort();
+            Items.Reverse();  //45-10 40-8 10-1 5-2
 
-            int weight = 0;
             int value = 0;
+            int weight = 0;
 
             for (int i = 0; i < Items.Count; i++)
             {
@@ -42,47 +36,44 @@ namespace Knapsack___IMS
 
         public int BruteForce()
         {
-            List<int> values = new List<int>();
-            for (int i = 0; i < (int)Math.Pow(2,Items.Count); i++)
-            {
-                string binair = Convert.ToString(i, 2).PadLeft(Items.Count,'0');
+            int bestvalue = Int32.MinValue;
 
-                int weight = 0;
-                int value = 0;
-                for (int j = 0; j < binair.Length; j++)
+            for (int i = 0; i < Math.Pow(Items.Count,2); i++)
+            {
+                string binary = Convert.ToString(i, 2).PadLeft(Items.Count,'0');
+
+                int value = 0, weight = 0;
+                for (int j = 0; j < binary.Length; j++)
                 {
-                    if (binair[j]=='1')
+                    if (binary[j] == '1')
                     {
-                        weight += Items[j].Weight;
                         value += Items[j].Value;
-                    }
-                    if (weight <= this.MaxWeight)
-                    {
-                        values.Add(value);
+                        weight += Items[j].Weight;
                     }
                 }
+                if (weight <= MaxWeight && value > bestvalue)
+                {
+                    bestvalue = value;
+                }
             }
-            values.Sort();
-            return values[values.Count-1];
+            return bestvalue;
         }
 
         public int DivideAndConquer(int current, int weight)
         {
-            if (current >= Items.Count || weight == MaxWeight) return 0;
-
-            //if (weight > MaxWeight) return Int32.MinValue;
+            if (current >= Items.Count) return 0;
 
             int selected = 0;
             int notselected = 0;
 
+            notselected = DivideAndConquer(current+1, weight);
             if (weight + Items[current].Weight <= MaxWeight)
             {
-                selected = Items[current].Value + DivideAndConquer(current + 1, weight + Items[current].Weight);
-            }
-            notselected = DivideAndConquer(current + 1, weight);
+                selected = Items[current].Value 
+                    + DivideAndConquer(current + 1, weight + Items[current].Weight);
 
+            }
             return Math.Max(selected, notselected);
-        
         }
 
         public int Dynamic()
@@ -97,7 +88,6 @@ namespace Knapsack___IMS
                         T[i, j] = T[i - 1, j];
                     else
                     {
-
                         T[i, j] = Math.Max(T[i - 1, j], T[i - 1, j - Items[i - 1].Weight] + Items[i - 1].Value);
                     }
 
@@ -105,5 +95,6 @@ namespace Knapsack___IMS
             }
             return T[Items.Count, MaxWeight];
         }
+
     }
 }
