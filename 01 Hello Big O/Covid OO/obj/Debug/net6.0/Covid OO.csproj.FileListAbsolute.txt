@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\01 Hello Big O\Covid OO\bin\Debug\net6.0\Covid OO.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\01 Hello Big O\Covid OO\bin\Debug\net6.0\Covid OO.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\01 Hello Big O\Covid OO\bin\Debug\net6.0\Covid OO.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\01 Hello Big O\Covid OO\bin\Debug\net6.0\Covid OO.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\01 Hello Big O\Covid OO\bin\Debug\net6.0\Covid OO.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\01 Hello Big O\Covid OO\obj\Debug\net6.0\Covid OO.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\01 Hello Big O\Covid OO\obj\Debug\net6.0\Covid OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\01 Hello Big O\Covid OO\obj\Debug\net6.0\Covid OO.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\01 Hello Big O\Covid OO\obj\Debug\net6.0\Covid OO.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\01 Hello Big O\Covid OO\obj\Debug\net6.0\Covid OO.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\01 Hello Big O\Covid OO\obj\Debug\net6.0\Covid OO.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\01 Hello Big O\Covid OO\obj\Debug\net6.0\refint\Covid OO.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\01 Hello Big O\Covid OO\obj\Debug\net6.0\Covid OO.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\01 Hello Big O\Covid OO\obj\Debug\net6.0\Covid OO.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\01 Hello Big O\Covid OO\obj\Debug\net6.0\ref\Covid OO.dll
