@@ -24,6 +24,21 @@ namespace LinkedList___IMS
 
             Console.WriteLine(list);
 
+            Console.WriteLine("mango: " + list.Search("mango"));
+            Console.WriteLine("papaya: " + list.Search("papaya"));
+            Console.WriteLine("citroen: " + list.Search("citroen"));
+            Console.WriteLine("aardbei: " + list.Search("aardbei"));
+
+            Console.WriteLine(list.Delete("citroen"));
+            Console.WriteLine(list.Delete("banaan"));
+            Console.WriteLine(list.Delete("mango"));
+            Console.WriteLine(list.Delete("papaya"));
+            Console.WriteLine(list.Delete("aardbei"));
+
+            list.InsertLast("aardbei");
+            Console.WriteLine(list);
+            list.InsertLast("druif");
+            Console.WriteLine(list);
 
 
         }
