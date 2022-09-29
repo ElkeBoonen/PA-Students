@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\LinkedList - IMS\bin\Debug\netcoreapp3.1\LinkedList - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\LinkedList - IMS\bin\Debug\netcoreapp3.1\LinkedList - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\LinkedList - IMS\bin\Debug\netcoreapp3.1\LinkedList - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\LinkedList - IMS\bin\Debug\netcoreapp3.1\LinkedList - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\LinkedList - IMS\bin\Debug\netcoreapp3.1\LinkedList - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\LinkedList - IMS\bin\Debug\netcoreapp3.1\LinkedList - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\LinkedList - IMS\obj\Debug\netcoreapp3.1\LinkedList - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\LinkedList - IMS\obj\Debug\netcoreapp3.1\LinkedList - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\LinkedList - IMS\obj\Debug\netcoreapp3.1\LinkedList - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\LinkedList - IMS\obj\Debug\netcoreapp3.1\LinkedList - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\LinkedList - IMS\obj\Debug\netcoreapp3.1\LinkedList - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\LinkedList - IMS\obj\Debug\netcoreapp3.1\LinkedList - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\LinkedList - IMS\obj\Debug\netcoreapp3.1\LinkedList - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\02 Datastructures\LinkedList - IMS\obj\Debug\netcoreapp3.1\LinkedList - IMS.genruntimeconfig.cache
