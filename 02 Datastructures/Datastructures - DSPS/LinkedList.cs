@@ -20,16 +20,34 @@ namespace Datastructures___DSPS
             Head = newnode;
         }
 
-        public override string ToString()
+        public void InsertLast(string data)
         {
-            string s = "";
-            Node temp = Head;
-            while (temp != null)
+            Node newnode = new Node(data);
+            if (Head == null)
             {
-                s += temp.Data + " -> ";
+                Head = newnode;
+                return;
+            }
+            Node temp = Head;
+            while (temp.Next != null)
+            {
                 temp = temp.Next;
             }
-            return s.Substring(0,s.Length-4);
+            temp.Next = newnode;
         }
+
+        public override string ToString()
+         {
+             string s = "";
+             Node temp = Head;
+             while (temp != null)
+             {
+                 s += temp.Data + " -> ";
+                 temp = temp.Next;
+             }
+             return s.Substring(0,s.Length-4);
+         }
+
+
     }
 }
