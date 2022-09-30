@@ -36,6 +36,48 @@ namespace Datastructures___DSPS
             temp.Next = newnode;
         }
 
+        public bool Search(string data)
+        {
+            Node temp = Head;
+            //bool found = false;
+            while (temp != null)
+            {
+                if (temp.Data == data) return true; //found = true; break;
+                temp = temp.Next;
+            }
+            return false; //return found;
+        }
+
+        public string Delete(string data)
+        {
+            if (Head != null)
+            {
+                if (Head.Data == data)
+                {
+                    Head = Head.Next;
+                    return this.ToString();
+                }
+                else
+                {
+                    Node prev = Head;
+                    Node temp = Head.Next;
+
+                    while (temp != null)
+                    {
+                        if (temp.Data == data)
+                        {
+                            prev.Next = temp.Next;
+                            return this.ToString();
+                        }
+                        prev = temp;
+                        temp = temp.Next;
+                    }
+                    return this.ToString();
+                }
+            } 
+            return "Empty linked list";
+        }
+
         public override string ToString()
          {
              string s = "";
