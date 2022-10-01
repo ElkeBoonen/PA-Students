@@ -35,6 +35,19 @@ namespace Datastructures___DSPS
             Console.WriteLine(list.Delete("apple"));
 
             Console.WriteLine("\n\n\n");
+            Stack stack = new Stack(5);
+            Console.WriteLine("Pop " + stack.Pop());
+            Console.WriteLine("Push " + stack.Push("apple"));
+            Console.WriteLine("Push " + stack.Push("banana"));
+            Console.WriteLine("Push " + stack.Push("lemon"));
+            Console.WriteLine("Push " + stack.Push("lime"));
+            Console.WriteLine("Push " + stack.Push("mango"));
+            Console.WriteLine("Push " + stack.Push("cherry"));
+            Console.WriteLine("Push " + stack.Push("grape"));
+            Console.WriteLine("Pop " + stack.Pop());
+            Console.WriteLine("Pop " + stack.Pop()); 
+            Console.WriteLine("Pop " + stack.Pop());
+
 
 
         }
