@@ -29,6 +29,7 @@ namespace Sorting___IMS
             int[] array = MapValues(songs.Values.ToArray(), 0, 100);
             //Console.WriteLine(String.Join(" ", array));
 
+            Console.WriteLine("BUBBLE");
             Sorting sorting = new Sorting();
             int[] int_array = new int[] { 8, 9, 4, 1, 7 };
             sorting.Bubble(int_array);
@@ -38,9 +39,16 @@ namespace Sorting___IMS
             sorting.Bubble(songs_array);
             Console.WriteLine(String.Join("\n", songs_array));
 
+            Console.WriteLine("SELECTION");
             int_array = new int[] { 8, 9, 4, 1, 7 };
             Console.WriteLine(String.Join(" ", int_array));
             sorting.Selection(int_array);
+            Console.WriteLine(String.Join(" ", int_array));
+
+            Console.WriteLine("INSERTION");
+            int_array = new int[] { 8, 9, 4, 1, 7 };
+            Console.WriteLine(String.Join(" ", int_array));
+            sorting.Insertion(int_array);
             Console.WriteLine(String.Join(" ", int_array));
         }
     }

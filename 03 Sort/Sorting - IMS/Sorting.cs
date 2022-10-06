@@ -57,5 +57,24 @@ namespace Sorting___IMS
             }
         }
 
+        public void Insertion(int[] array)
+        {
+            for (int i = 1; i < array.Length; i++)
+            {
+                int temp = array[i];
+                int j;
+
+                for (j = i; j > 0; j--)
+                {
+                    if (array[j - 1] < temp)
+                    {
+                        break;
+                    } 
+                    array[j] = array[j - 1];
+                }
+                array[j] = temp;
+            }
+        }
+
     }
 }
