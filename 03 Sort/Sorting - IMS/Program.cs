@@ -37,6 +37,11 @@ namespace Sorting___IMS
             KeyValuePair<string, int>[] songs_array = songs.ToArray();
             sorting.Bubble(songs_array);
             Console.WriteLine(String.Join("\n", songs_array));
+
+            int_array = new int[] { 8, 9, 4, 1, 7 };
+            Console.WriteLine(String.Join(" ", int_array));
+            sorting.Selection(int_array);
+            Console.WriteLine(String.Join(" ", int_array));
         }
     }
 }
