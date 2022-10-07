@@ -44,8 +44,18 @@ namespace Sort___DSPS
             Console.WriteLine($"bubble sort: {String.Join(" ", int_array)}");
 
             KeyValuePair<string, int>[] songs = data.ToArray();
+            sort.Bubble(songs);
+            Console.WriteLine(String.Join("\n", songs));
 
+            int_array = new int[] { 5, 3, 7, 1, 8 };
+            Console.WriteLine($"unsorted: {String.Join(" ", int_array)}");
+            sort.Selection(int_array);
+            Console.WriteLine($"selection sort: {String.Join(" ", int_array)}");
 
+            int_array = new int[] { 5, 3, 7, 1, 8 };
+            Console.WriteLine($"unsorted: {String.Join(" ", int_array)}");
+            sort.Insertion(int_array);
+            Console.WriteLine($"insertion sort: {String.Join(" ", int_array)}");
         }
     }
 }
