@@ -13,3 +13,5 @@ C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\03 Sort\S
 C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\03 Sort\Sort - DSPS\obj\Debug\netcoreapp3.1\Sort - DSPS.dll
 C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\03 Sort\Sort - DSPS\obj\Debug\netcoreapp3.1\Sort - DSPS.pdb
 C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\03 Sort\Sort - DSPS\obj\Debug\netcoreapp3.1\Sort - DSPS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\03 Sort\Sort - DSPS\bin\Debug\netcoreapp3.1\TM.ProgrammingAdvanced.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\03 Sort\Sort - DSPS\obj\Debug\netcoreapp3.1\Sort - DSPS.csproj.CopyComplete

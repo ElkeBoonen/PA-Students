@@ -1,11 +1,37 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "TM.ProgrammingAdvanced/1.0.5": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/TM.ProgrammingAdvanced.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/TM.ProgrammingAdvanced.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TM.ProgrammingAdvanced/1.0.5": {
+      "sha512": "yk3SD38FmA0QEj8+hwK2rlPrSQYzTwSKznBuLO7HddTXB8t0J80Mb2eXjtxhR3ocpCYldooF4TKniQ9/S2tJTw==",
+      "type": "package",
+      "path": "tm.programmingadvanced/1.0.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.1/TM.ProgrammingAdvanced.dll",
+        "license.txt",
+        "tm.programmingadvanced.1.0.5.nupkg.sha512",
+        "tm.programmingadvanced.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "TM.ProgrammingAdvanced >= 1.0.5"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\elkeb\\.nuget\\packages\\": {},
@@ -50,6 +76,12 @@
     "frameworks": {
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "TM.ProgrammingAdvanced": {
+            "target": "Package",
+            "version": "[1.0.5, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

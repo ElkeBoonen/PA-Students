@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0Le4sELnyWsOtNbxj152vRr8PONphqiuRc/M6GOi+Bkae6lsHkxU9pS61pn5+8BGiwgltH5STsqx22/rVEpL6A==",
+  "dgSpecHash": "uNutnqh4KkuIyzWAmx0Y/XIX6rgmePokrGDNsuusl44t4Jt9JhW2ZP6hrw4pd1JyDrqV8SntWVhtPxDvRtDFow==",
   "success": true,
   "projectFilePath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Git\\ProgrammingAdvanced-Students\\03 Sort\\Sort - DSPS\\Sort - DSPS.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\elkeb\\.nuget\\packages\\tm.programmingadvanced\\1.0.5\\tm.programmingadvanced.1.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
+using TM.ProgrammingAdvanced;
 
 namespace Sort___DSPS
 {
@@ -27,11 +29,23 @@ namespace Sort___DSPS
 
         static void Main(string[] args)
         {
+            //Dictionary<string, int> data = Data.Songs;
             Dictionary<string, int> data = ReadData("data.csv");
-            foreach (var item in data)
+            /*foreach (var item in data)
             {
                 Console.WriteLine(item.Key + " --> " + item.Value);
-            }
+            }*/
+
+            Sort sort = new Sort();
+
+            int[] int_array = new int[] { 5, 3, 7, 1, 8 };
+            Console.WriteLine($"unsorted: {String.Join(" ", int_array)}");
+            sort.Bubble(int_array);
+            Console.WriteLine($"bubble sort: {String.Join(" ", int_array)}");
+
+            KeyValuePair<string, int>[] songs = data.ToArray();
+
+
         }
     }
 }
