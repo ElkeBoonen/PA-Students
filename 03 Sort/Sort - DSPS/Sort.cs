@@ -6,19 +6,26 @@ namespace Sort___DSPS
 {
     public class Sort
     {
+        public int Count { get; set; }
+
         public void Bubble(int[] array)
         {
             for (int i = 0; i < array.Length; i++)  //O(n)
             {
+                bool flag = true;
                 for (int j = 0; j < array.Length-1-i; j++) // 0(n) --> inside eachother O(n^2)
                 {
+                    Count++;
                     if (array[j] > array[j + 1])
                     {
+                        flag = false;
+                        Count++;
                         int temp = array[j];
                         array[j] = array[j + 1];    
                         array[j + 1] = temp;
                     }
                 }
+                if (flag) break;
             }
         }
 
@@ -61,17 +68,26 @@ namespace Sort___DSPS
         {
             for (int i = 0; i < array.Length-1; i++)
             {
+                bool flag = true;
                 int min = i;
                 for (int j = i+1; j < array.Length; j++)
                 {
+                    Count++;
+
+                    if (flag && array[j-1] > array[j]) flag = false;
+
                     if (array[min] > array[j])
                     {
+                        Count++;
                         min = j;
                     }
                 }
+                Count++;
                 int temp = array[i];
                 array[i] = array[min];
                 array[min] = temp;
+
+                if (flag) break;
             }
         }
 
@@ -99,8 +115,10 @@ namespace Sort___DSPS
             {
                 for (int j = i; j > 0; j--)
                 {
+                    Count++;
                     if (array[j] < array[j - 1])
                     {
+                        Count++;
                         int temp = array[j];
                         array[j] = array[j - 1];
                         array[j - 1] = temp;

@@ -56,6 +56,23 @@ namespace Sort___DSPS
             Console.WriteLine($"unsorted: {String.Join(" ", int_array)}");
             sort.Insertion(int_array);
             Console.WriteLine($"insertion sort: {String.Join(" ", int_array)}");
+
+            sort.Count = 0;
+            int_array = Data.Numbers;
+            sort.Bubble(int_array);
+            Console.WriteLine("bubble: " + sort.Count);
+
+            sort.Count = 0;
+            int_array = Data.Numbers;
+            sort.Selection(int_array);
+            Console.WriteLine("selection: " + sort.Count);
+
+            sort.Count = 0;
+            int_array = Data.Numbers;
+            sort.Insertion(int_array);
+            Console.WriteLine("insertion: " + sort.Count);
+
+
         }
     }
 }
