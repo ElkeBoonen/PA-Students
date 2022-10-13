@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\Recursion - IMS\bin\Debug\netcoreapp3.1\Recursion - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\Recursion - IMS\bin\Debug\netcoreapp3.1\Recursion - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\Recursion - IMS\bin\Debug\netcoreapp3.1\Recursion - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\Recursion - IMS\bin\Debug\netcoreapp3.1\Recursion - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\Recursion - IMS\bin\Debug\netcoreapp3.1\Recursion - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\Recursion - IMS\bin\Debug\netcoreapp3.1\Recursion - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\Recursion - IMS\bin\Debug\netcoreapp3.1\TM.ProgrammingAdvanced.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\Recursion - IMS\obj\Debug\netcoreapp3.1\Recursion - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\Recursion - IMS\obj\Debug\netcoreapp3.1\Recursion - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\Recursion - IMS\obj\Debug\netcoreapp3.1\Recursion - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\Recursion - IMS\obj\Debug\netcoreapp3.1\Recursion - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\Recursion - IMS\obj\Debug\netcoreapp3.1\Recursion - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\Recursion - IMS\obj\Debug\netcoreapp3.1\Recursion - IMS.csproj.CopyComplete
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\Recursion - IMS\obj\Debug\netcoreapp3.1\Recursion - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\Recursion - IMS\obj\Debug\netcoreapp3.1\Recursion - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\Recursion - IMS\obj\Debug\netcoreapp3.1\Recursion - IMS.genruntimeconfig.cache
