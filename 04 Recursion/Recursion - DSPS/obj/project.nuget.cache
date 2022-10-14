@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wQACkeQsw6caprKQSypiQqqvzhERzQ+hg8bQuKKDgWdj+Zqv3xnBYkncqbFJK+d7WYfPZseqKz8dYi97xt93gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Git\\ProgrammingAdvanced-Students\\04 Recursion\\Recursion - DSPS\\Recursion - DSPS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elkeb\\.nuget\\packages\\tm.programmingadvanced\\1.0.5\\tm.programmingadvanced.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
