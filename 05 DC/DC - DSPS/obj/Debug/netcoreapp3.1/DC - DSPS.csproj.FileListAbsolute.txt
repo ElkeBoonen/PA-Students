@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - DSPS\bin\Debug\netcoreapp3.1\DC - DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - DSPS\bin\Debug\netcoreapp3.1\DC - DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - DSPS\bin\Debug\netcoreapp3.1\DC - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - DSPS\bin\Debug\netcoreapp3.1\DC - DSPS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - DSPS\bin\Debug\netcoreapp3.1\DC - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - DSPS\bin\Debug\netcoreapp3.1\DC - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - DSPS\obj\Debug\netcoreapp3.1\DC - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - DSPS\obj\Debug\netcoreapp3.1\DC - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - DSPS\obj\Debug\netcoreapp3.1\DC - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - DSPS\obj\Debug\netcoreapp3.1\DC - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - DSPS\obj\Debug\netcoreapp3.1\DC - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - DSPS\obj\Debug\netcoreapp3.1\DC - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - DSPS\obj\Debug\netcoreapp3.1\DC - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - DSPS\obj\Debug\netcoreapp3.1\DC - DSPS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - DSPS\bin\Debug\netcoreapp3.1\TM.ProgrammingAdvanced.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - DSPS\obj\Debug\netcoreapp3.1\DC - DSPS.csproj.CopyComplete

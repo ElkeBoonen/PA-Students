@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1flvOJHIYqdb3Jk6Qb441GF7EPT87qJcDB8+W0RAL6dLsHaqSFlHNeuYETMI33o/jn06gmNQbtsF6v75vNOOFg==",
+  "dgSpecHash": "yvbiQ/fBhGm1UN6idgS12MQyWIwnWX8COxxsWSXd58eTzBnPx/kZBmAWGz68N2+2ERWHkSTOek0lmYNe+Dx1rQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Git\\ProgrammingAdvanced-Students\\05 DC\\DC - IMS\\DC - IMS.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\elkeb\\.nuget\\packages\\tm.programmingadvanced\\1.0.5\\tm.programmingadvanced.1.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

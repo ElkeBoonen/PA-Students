@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "DC - IMS/1.0.0": {
+      "DC - DSPS/1.0.0": {
         "dependencies": {
           "TM.ProgrammingAdvanced": "1.0.5"
         },
         "runtime": {
-          "DC - IMS.dll": {}
+          "DC - DSPS.dll": {}
         }
       },
       "TM.ProgrammingAdvanced/1.0.5": {
@@ -25,7 +25,7 @@
     }
   },
   "libraries": {
-    "DC - IMS/1.0.0": {
+    "DC - DSPS/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

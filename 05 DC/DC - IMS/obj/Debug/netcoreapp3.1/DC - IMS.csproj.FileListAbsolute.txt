@@ -12,3 +12,19 @@ C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\DC - IMS\obj\Debug\netcore
 C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\DC - IMS\obj\Debug\netcoreapp3.1\DC - IMS.dll
 C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\DC - IMS\obj\Debug\netcoreapp3.1\DC - IMS.pdb
 C:\Users\elkeb\OneDrive - Thomas More\Git\AI-students\DC - IMS\obj\Debug\netcoreapp3.1\DC - IMS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - IMS\bin\Debug\netcoreapp3.1\DC - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - IMS\bin\Debug\netcoreapp3.1\DC - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - IMS\bin\Debug\netcoreapp3.1\DC - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - IMS\bin\Debug\netcoreapp3.1\DC - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - IMS\bin\Debug\netcoreapp3.1\DC - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - IMS\bin\Debug\netcoreapp3.1\DC - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - IMS\obj\Debug\netcoreapp3.1\DC - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - IMS\obj\Debug\netcoreapp3.1\DC - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - IMS\obj\Debug\netcoreapp3.1\DC - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - IMS\obj\Debug\netcoreapp3.1\DC - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - IMS\obj\Debug\netcoreapp3.1\DC - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - IMS\obj\Debug\netcoreapp3.1\DC - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - IMS\obj\Debug\netcoreapp3.1\DC - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - IMS\obj\Debug\netcoreapp3.1\DC - IMS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - IMS\bin\Debug\netcoreapp3.1\TM.ProgrammingAdvanced.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\05 DC\DC - IMS\obj\Debug\netcoreapp3.1\DC - IMS.csproj.CopyComplete
