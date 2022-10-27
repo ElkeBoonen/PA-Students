@@ -7,10 +7,10 @@ namespace Fibonacci___IMS
         static void Main(string[] args)
         {
             Fibonacci fib = new Fibonacci();
-            Console.WriteLine("\nITERATIEF: " + fib.Iterative(20));
-            Console.WriteLine("\nRECURSIEF: " + fib.Recursive(20));
-            Console.WriteLine("\nMEMOIZATION: " + fib.Memoization(20));
-            Console.WriteLine("\nTABULATION: " + fib.Memoization(20));
+            Console.WriteLine("\nITERATIEF: " + fib.Iterative(10));
+            Console.WriteLine("\nRECURSIEF: " + fib.Recursive(10));
+            Console.WriteLine("\nMEMOIZATION: " + fib.Memoization(10));
+            Console.WriteLine("\nTABULATION: " + fib.Tabulation(10));
 
 
 
