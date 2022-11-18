@@ -10,12 +10,20 @@ namespace Hashtable_DSPS
             book.AddItem("apple", 0.67);
             book.AddItem("pear", 0.78);
             book.AddItem("eggs", 2.49);
-            book.AddItem("mil", 1.49);
+            book.AddItem("milk", 1.49);
             book.AddItem("avocado", 1.49);
             Console.WriteLine(book);
             Console.WriteLine(book.GetPrice("eggs"));*/
 
-            Book_Hash book = new Book_Hash(5);
+            Book_Hash_SC book = new Book_Hash_SC(6);
+            book.AddItem("apple", 0.67);
+            book.AddItem("pear", 0.78);
+            book.AddItem("eggs", 2.49);
+            book.AddItem("milk", 1.49);
+            book.AddItem("avocado", 1.49);
+            book.AddItem("oranges", 1.50);
+            Console.WriteLine(book);
+            Console.WriteLine(book.GetPrice("eggs"));
 
 
 

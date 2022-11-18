@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Hashtable_DSPS
 {
-    class Book_Hash_SC
+    class Book_Hash
     {
-        private List<KeyValuePair<string,double>>[] book;
+        private double[] book;
 
         private int NextPrime(int nr)
         {
@@ -27,11 +27,18 @@ namespace Hashtable_DSPS
             }    
         }
 
-        public Book_Hash_SC(int maxkey)
+        public Book_Hash(int maxkey)
         {
             int length = NextPrime((int)(maxkey * 1.3));
-            book = new List<KeyValuePair<string, double>>[length];
+            book = new double[length];
             Console.WriteLine(length);
+        }
+
+        private int HashSimple(string key)
+        {
+            int sum = 0;
+            foreach (var item in key) sum += item;
+            return sum % book.Length;
         }
 
         private int Hash(string key)
@@ -43,22 +50,12 @@ namespace Hashtable_DSPS
 
         public void AddItem(string key, double value)
         {
-            int hash = Hash(key);
-            if (book[hash] == null)
-            {
-                book[hash] = new List<KeyValuePair<string, double>>();
-            }
-            book[hash].Add(new KeyValuePair<string, double>(key, value));
+            book[Hash(key)] = value;
         }
 
         public double GetPrice(string key)
         {
-            int hash = Hash(key);
-            foreach (var item in book[hash])
-            {
-                if (item.Key == key) return item.Value;
-            }
-            return -1;
+            return book[Hash(key)];
         }
 
         public override string ToString()
@@ -66,15 +63,7 @@ namespace Hashtable_DSPS
             string s = "";
             for (int i = 0; i < book.Length; i++)
             {
-                s += i;
-                if (book[i] != null)
-                {
-                    foreach (var item in book[i])
-                    {
-                        s += " --> " + item.Key + ":"+item.Value;
-                    }
-                }
-                s += "\n";
+                s += i + " --> " + book[i] + "\n";
             }
             return s;
         }
