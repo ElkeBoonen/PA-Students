@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Hashtable_DSPS/1.0.0": {
+        "runtime": {
+          "Hashtable_DSPS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hashtable_DSPS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
