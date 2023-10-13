@@ -1,0 +1,17 @@
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 Recursion\DSPS\bin\Debug\net6.0\DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 Recursion\DSPS\bin\Debug\net6.0\DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 Recursion\DSPS\bin\Debug\net6.0\DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 Recursion\DSPS\bin\Debug\net6.0\DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 Recursion\DSPS\bin\Debug\net6.0\DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 Recursion\DSPS\bin\Debug\net6.0\TM.ProgrammingAdvanced.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 Recursion\DSPS\obj\Debug\net6.0\DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 Recursion\DSPS\obj\Debug\net6.0\DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 Recursion\DSPS\obj\Debug\net6.0\DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 Recursion\DSPS\obj\Debug\net6.0\DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 Recursion\DSPS\obj\Debug\net6.0\DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 Recursion\DSPS\obj\Debug\net6.0\DSPS.csproj.CopyComplete
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 Recursion\DSPS\obj\Debug\net6.0\DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 Recursion\DSPS\obj\Debug\net6.0\refint\DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 Recursion\DSPS\obj\Debug\net6.0\DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 Recursion\DSPS\obj\Debug\net6.0\DSPS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\AI-students\04 Recursion\DSPS\obj\Debug\net6.0\ref\DSPS.dll

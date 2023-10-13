@@ -53,10 +53,36 @@ namespace IMS
         }
 
         public void Remove(string data)
-        { }
+        {
+            if (Head.Data == data)
+            {
+                Head = Head.Next;
+                return;
+            }
+
+            Node current = Head;
+            Node previous = null;
+            while (current != null && current.Data != data)
+            {
+                previous = current;
+                current = current.Next;
+            }
+            
+            if (current == null) return;
+
+            previous.Next = current.Next;
+        }
 
         public bool Search(string data)
-        { }
+        {
+            Node iterator = Head;
+            while (iterator != null)
+            {
+                if (iterator.Data == data) return true;
+                iterator = iterator.Next;
+            }
+            return false;
+        }
 
         public override string ToString()
         {

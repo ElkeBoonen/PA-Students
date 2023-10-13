@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DSPS/1.0.0": {
+        "dependencies": {
+          "TM.ProgrammingAdvanced": "1.0.5"
+        },
+        "runtime": {
+          "DSPS.dll": {}
+        }
+      },
+      "TM.ProgrammingAdvanced/1.0.5": {
+        "runtime": {
+          "lib/netstandard2.1/TM.ProgrammingAdvanced.dll": {
+            "assemblyVersion": "1.0.5.0",
+            "fileVersion": "1.0.5.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DSPS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TM.ProgrammingAdvanced/1.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yk3SD38FmA0QEj8+hwK2rlPrSQYzTwSKznBuLO7HddTXB8t0J80Mb2eXjtxhR3ocpCYldooF4TKniQ9/S2tJTw==",
+      "path": "tm.programmingadvanced/1.0.5",
+      "hashPath": "tm.programmingadvanced.1.0.5.nupkg.sha512"
+    }
+  }
+}
