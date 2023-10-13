@@ -17,6 +17,12 @@ namespace IMS
             Console.WriteLine("Key --> " + key.Algorithm1(folder) + " Count " + key.Count);
             key.Count = 0;
             Console.WriteLine("Key --> " + key.Algorithm2(folder) + " Count " + key.Count);
+        
+        
+            Factorial factorial = new Factorial();
+            Console.WriteLine("7! = " + factorial.Iterative(7));
+            Console.WriteLine("7! = " + factorial.Recursive(7));
+
         }
     }
 }
