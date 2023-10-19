@@ -23,6 +23,13 @@ namespace IMS
             Console.WriteLine("7! = " + factorial.Iterative(7));
             Console.WriteLine("7! = " + factorial.Recursive(7));
 
+            Exercises ex = new Exercises();
+            Console.WriteLine("Som van 9 --> " + ex.Sum(9));
+            Console.WriteLine("Count 38000765 --> " + ex.Count(38000765));
+
+            ex.For(new int[] { 1, 4, 7, 19, 20, 6 });
+            Console.WriteLine(ex.For(9,-8));
+            Console.WriteLine(ex.Reverse("dit is een woord"));
         }
     }
 }
