@@ -47,7 +47,7 @@ namespace IMS
 
         public bool Solve(int col)
         {
-            Console.WriteLine(this);
+           // Console.WriteLine(this);
 
             if (col >= n) return true;
 
