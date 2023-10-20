@@ -14,6 +14,12 @@
             {
                 Console.WriteLine(String.Join(" ", item));
             }
+
+            results = subsetProblem.SolveBinary(new int[] { 4, 8, 10 });
+            foreach (var item in results)
+            {
+                Console.WriteLine(String.Join(" ", item));
+            }
         }
     }
 }

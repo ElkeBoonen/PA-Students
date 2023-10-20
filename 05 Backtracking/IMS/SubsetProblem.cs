@@ -39,5 +39,37 @@ namespace IMS
 
         
         }
+
+        /*
+         
+        Calculate how many subsets you have
+        Now iterate over the possible subsets (0 - 000, 1 - 001, 2 - 010...)
+        We take an element or we don't
+        Combine elements in subset
+        Add subset to results list
+         
+         */
+
+
+        public List<List<int>> SolveBinary(int[] ints)
+        {
+            List<List<int>> results = new List<List<int>>();
+            
+
+            int count = (int) Math.Pow(2, ints.Length);
+
+            for (int i = 0; i < count; i++)
+            {
+                List<int> list = new List<int>();
+                string binary = Convert.ToString(i, 2).PadLeft(ints.Length, '0');
+                for (int j = 0; j < binary.Length; j++)
+                {
+                    if (binary[j] == '1') list.Add(ints[j]);
+                }
+                results.Add(list);
+            }
+
+            return results;
+        }
     }
 }
