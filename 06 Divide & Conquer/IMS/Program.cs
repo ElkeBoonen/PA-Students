@@ -20,6 +20,9 @@
             list = quickSort.Solve(list);
             Console.WriteLine(String.Join(" ", list));
 
+            //HANOI
+            Hanoi hanoi = new Hanoi();
+            hanoi.Solve(10, 'A', 'C', 'B');
 
         }
     }
