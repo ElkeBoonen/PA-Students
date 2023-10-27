@@ -20,6 +20,19 @@
             int[] array = new int[] { 2, 7, 9, 1, 10, 8, 14, 21, 4, 5, 18, 19 };
             quicksort.Sort(array, 0, array.Length - 1);
             Console.WriteLine(String.Join(" ", array));
+
+
+            Hanoi hanoi = new Hanoi();
+            Console.WriteLine("1 DISK");
+            hanoi.Solve(1, 'A', 'C', 'B');
+
+            Console.WriteLine("2 DISK");
+            hanoi.Solve(2, 'A', 'C', 'B');
+
+            Console.WriteLine("7 DISK");
+            hanoi.Solve(7, 'A', 'C', 'B');
+
+
         }
     }
 }

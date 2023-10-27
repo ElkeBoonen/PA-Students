@@ -66,7 +66,8 @@ namespace DSPS
                 }
                 while (array[j] > pivot);
 
-                if (i > j) return j;
+                if (i >= j) return j;
+
                 int swap = array[i];
                 array[i] = array[j];
                 array[j] = swap;
