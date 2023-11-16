@@ -17,6 +17,8 @@
             RodCutting rod = new RodCutting(new int[] { 0,1, 5,8,9,10,17,17,20,24,30});
             Console.WriteLine("\n" + rod.Recursion(n));
             Console.WriteLine("\n" + rod.Memoization(n, new int[n+1]));
+            Console.WriteLine("\n" + rod.Tabulation(n));
+
 
         }
     }

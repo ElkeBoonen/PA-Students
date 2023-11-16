@@ -39,13 +39,32 @@ namespace IMS
 
             if (n < 0) throw new Exception("Crazy input!");
             if (n == 0) return Prices[0];
+            if (array[n] != 0) return array[n]; 
 
-            int r = 0;
             for (int i = 1; i <= n; i++)
             {
-                r = Math.Max(r, Prices[i] + Memoization(n - i, array));
+                array[n] = Math.Max(array[n], Prices[i] + Memoization(n - i, array));
             }
-            return r;
+            return array[n];
+        }
+
+        public int Tabulation(int n)
+        {
+            Console.Write("Call met " + n + " ");
+
+
+            if (n < 0) throw new Exception("Crazy input!");
+            if (n == 0) return Prices[0];
+
+            int[] array = new int[n + 1];
+            for (int i = 1; i <= n; i++)
+            {
+                for (int j = 1; j <= i; j++)
+                {
+                    array[i] = Math.Max(array[i], Prices[j] + array[i-j]);
+                }
+            }
+            return array[n];
         }
     }
 
