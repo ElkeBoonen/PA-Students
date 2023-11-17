@@ -30,6 +30,9 @@
 
             Console.WriteLine(maze.ToString());
 
+            Console.WriteLine(maze.DFS(12));
+            Console.WriteLine(maze.DFS_Stack(12));
+
 
         }
     }
