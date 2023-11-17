@@ -1,4 +1,4 @@
-﻿namespace DSPS
+﻿namespace IMS
 {
     internal class Program
     {
@@ -19,8 +19,8 @@
             maze.AddEdge(24, 23);
             maze.AddEdge(18, 23);
             maze.AddEdge(22, 23);
-            maze.AddEdge(17, 22);
-            maze.AddEdge(17, 12);
+            maze.AddEdge(17, 12); 
+            maze.AddEdge(17, 22); //deze is toegevoegd!
             maze.AddEdge(21, 22);
             maze.AddEdge(21, 20);
             maze.AddEdge(20, 15);
@@ -30,10 +30,7 @@
 
             Console.WriteLine(maze.ToString());
 
-            List<int> nodes = maze.DFS(12,null,0);
-            Console.WriteLine("DFS RECUSION:" + String.Join(" -> ",nodes));
-            Console.WriteLine("DFS STACK: " + maze.DFS(12));
-            Console.WriteLine("BFS:" + maze.BFS(12,0));
+
         }
     }
 }
