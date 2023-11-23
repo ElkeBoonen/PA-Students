@@ -31,10 +31,10 @@
             return s;
         }
 
-        
+
 
         public string DFS(int startnode, List<int> visited = null)
-        { 
+        {
             if (visited == null) visited = new List<int>();
 
             visited.Add(startnode);
@@ -42,7 +42,7 @@
             foreach (var node in graph[startnode])
             {
                 if (!visited.Contains(node))
-                { 
+                {
                     DFS(node, visited);
                 }
             }
@@ -77,6 +77,31 @@
                     if (!visited.Contains(nextNode))
                     {
                         stack.Push(nextNode);
+                    }
+                }
+            }
+            return String.Join(" ", visited);
+        }
+
+        public string BFS(int startnode)
+        {
+            Queue<int> queue = new Queue<int>();
+            List<int> visited = new List<int>();
+
+            queue.Enqueue(startnode);
+
+            while (queue.Count > 0)
+            {
+                int node = queue.Dequeue();
+                if (!visited.Contains(node)) visited.Add(node);
+
+                if (node == 0) return String.Join(" ", visited);
+
+                foreach (var nextNode in graph[node])
+                {
+                    if (!visited.Contains(nextNode))
+                    {
+                        queue.Enqueue(nextNode);
                     }
                 }
             }
