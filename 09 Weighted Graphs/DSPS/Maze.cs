@@ -33,12 +33,11 @@ namespace DSPS
                 distances[i] = Int32.MaxValue;
             }
 
+            int[] previous = new int[nodes];
+
             List<int> visited = new List<int>();
 
             distances[start] = 0;
-
-            string path = "";
-
             while (true)
             {
                 int next = GetNextNode(distances, visited);
@@ -49,14 +48,25 @@ namespace DSPS
 
                 visited.Add(next);
 
-                path += next + " ";
-
                 // for each neighbor ​calculate the cost and update if lower
                 foreach (int neighbour in graph[next])
                 {
                     int cost = distances[next] + Math.Abs(neighbour - next);
-                    if (distances[neighbour] > cost) distances[neighbour] = cost;
+                    if (distances[neighbour] > cost) 
+                    {
+                        distances[neighbour] = cost;
+                        previous[neighbour] = next;
+                    }
+                    
                 }
+            }
+
+            string path = "";
+            int node = 0;
+            while (node != start)
+            {
+                path = previous[node] + " " + path;
+                node = previous[node];
             }
 
             Console.WriteLine(path);
