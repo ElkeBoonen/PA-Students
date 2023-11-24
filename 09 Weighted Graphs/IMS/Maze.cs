@@ -30,5 +30,56 @@
             return s;
         }
 
+        public void Dijkstra(int startnode)
+        { 
+            List<int> visited = new List<int>();
+            int[] distances = new int[nodes];
+            int[] previous = new int[nodes];
+            for (int i = 0; i < nodes; i++)
+            {
+                distances[i] = Int32.MaxValue;
+            }
+
+            distances[startnode] = 0;
+
+            while (true)
+            {
+                int node = GetNextNode(distances, visited);
+
+                if (node == -1) break;
+                if (node == 0) break;
+
+                visited.Add(node);
+
+                foreach (var neighbour in graph[node])
+                {
+                    int cost = distances[node] + Math.Abs(node - neighbour);
+                    if (distances[neighbour] > cost)
+                    {
+                        distances[neighbour] = cost;
+                    }
+                }
+            }
+
+            for (int i = 0; i < nodes; i++)
+            {
+                Console.WriteLine($" om aan {i} te geraken ga je via {previous[i]}");
+            }
+        }
+
+        private int GetNextNode(int[] distances, List<int> visited)
+        {
+            int node = -1;
+            int min = Int32.MaxValue;
+            for (int i = 0; i < nodes; i++)
+            {
+                if (distances[i] < min && !visited.Contains(i))
+                {
+                    node = i;
+                    min = distances[i];
+                }
+            }
+            return node;
+        }
     }
 }
