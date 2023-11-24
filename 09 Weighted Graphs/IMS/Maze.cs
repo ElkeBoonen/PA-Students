@@ -1,4 +1,6 @@
-﻿namespace IMS
+﻿using System.Net;
+
+namespace IMS
 {
     internal class Maze
     {
@@ -38,6 +40,7 @@
             for (int i = 0; i < nodes; i++)
             {
                 distances[i] = Int32.MaxValue;
+                previous[i] = -1;
             }
 
             distances[startnode] = 0;
@@ -57,6 +60,7 @@
                     if (distances[neighbour] > cost)
                     {
                         distances[neighbour] = cost;
+                        previous[neighbour] = node;
                     }
                 }
             }
@@ -65,6 +69,17 @@
             {
                 Console.WriteLine($" om aan {i} te geraken ga je via {previous[i]}");
             }
+
+            int end = 0;
+            string path = " ";
+            while (end != startnode)
+            {
+                path = end + " " + path; 
+                end = previous[end];
+            }
+            path = end + " " + path;
+
+            Console.WriteLine(path);
         }
 
         private int GetNextNode(int[] distances, List<int> visited)
