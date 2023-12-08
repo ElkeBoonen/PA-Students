@@ -1,8 +1,8 @@
 ﻿namespace IMS
 {
-    internal class Book_Hash
+    internal class Book_HashSep
     {
-        private double[] book;
+        private List<KeyValuePair<string,double>>[] book;
 
         private int NextPrime(double d)
         {
@@ -11,31 +11,22 @@
             while (!isPrime)
             {
                 isPrime = true;
-                for (int i = 2; i < nr/2; i++)
+                for (int i = 2; i < nr / 2; i++)
                 {
                     if (nr % i == 0) isPrime = false;
                 }
                 nr++;
             }
-            return nr-1;
+            return nr - 1;
         }
-        public Book_Hash(int keys)
+        public Book_HashSep(int keys)
         {
-            book = new double[NextPrime(keys*1.3)];
+            book = new List<KeyValuePair<string, double>>[NextPrime(keys * 1.3)];
         }
 
         private int HashFunction(string key)
         {
             long index = 0;
-            /*foreach (char c in key)
-            {
-                index += (int)c;
-            }*/
-
-            /*for (int i = 0; i < key.Length; i++)
-            {
-                index += (int)key[i] * Math.Pow(31, i);
-            }*/
             foreach (char c in key) index = (31 * index) + (int)c;
             return (int)(index % book.Length);
         }
@@ -48,13 +39,22 @@
         internal void AddItem(string product, double price)
         {
             int index = HashFunction(product);
-            book[index] = price;
+
+            if (book[index] == null)
+            {
+                book[index] = new List<KeyValuePair<string, double>>();
+            }
+            book[index].Add(new KeyValuePair<string, double>(product,price));
         }
 
         internal double GetPrice(string product)
         {
-            return book[HashFunction(product)];
+            int index = HashFunction(product);
+            foreach (var item in book[index])
+            {
+                if (item.Key == product) return item.Value;
+            }
+            return 0 ;
         }
-
     }
 }
