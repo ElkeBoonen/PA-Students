@@ -33,7 +33,21 @@
 
         public override string ToString()
         {
-            return String.Join("\n", book);
+            string s = "";
+            for (int i = 0; i < book.Length; i++)
+            {
+                s += i + " ";
+                if (book[i] != null)
+                {
+                    foreach (var item in book[i])
+                    {
+                        s += item.Key + ":" + item.Value + " - ";
+                    }
+                }
+                else s += "null";
+                s += "\n";
+            }
+            return s;
         }
 
         internal void AddItem(string product, double price)
