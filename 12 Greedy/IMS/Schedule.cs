@@ -24,5 +24,22 @@ namespace IMS
             }
             return s;
         }
+
+        public List<Course> Create()
+        {
+            List<Course> schedule = new List<Course>();
+
+            Courses.Sort();
+            schedule.Add(Courses[0]);
+            for (int i = 1; i < Courses.Count; i++)
+            {
+                if (Courses[i].Start >= schedule.Last().End)
+                { 
+                    schedule.Add(Courses[i]);
+                }
+            }
+
+            return schedule;
+        }
     }
 }

@@ -13,6 +13,16 @@
 
             Schedule schedule = new Schedule(courses);
             Console.WriteLine(schedule);
+
+            schedule.Courses.Sort();
+            Console.WriteLine(schedule);
+
+            List<Course> created = schedule.Create();
+            Console.WriteLine("CREATED SCHEDULE");
+            foreach (var item in created)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }

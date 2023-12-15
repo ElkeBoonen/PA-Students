@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace IMS
 {
-    public class Course
+    public class Course : IComparable<Course>
     {
         public double Start { get; set; }
         public double End { get; set; }
@@ -23,6 +23,13 @@ namespace IMS
         public override string ToString()
         {
             return $"{Name} {Start}:{End}";
+        }
+
+        public int CompareTo(Course other)
+        {
+            if (this.End < other.End) return -1;
+            if (this.End > other.End) return 1;
+            return 0;
         }
     }
 }
