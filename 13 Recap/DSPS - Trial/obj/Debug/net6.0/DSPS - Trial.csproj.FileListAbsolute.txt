@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\DSPS - Trial\bin\Debug\net6.0\DSPS - Trial.exe
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\DSPS - Trial\bin\Debug\net6.0\DSPS - Trial.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\DSPS - Trial\bin\Debug\net6.0\DSPS - Trial.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\DSPS - Trial\bin\Debug\net6.0\DSPS - Trial.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\DSPS - Trial\bin\Debug\net6.0\DSPS - Trial.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\DSPS - Trial\obj\Debug\net6.0\DSPS - Trial.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\DSPS - Trial\obj\Debug\net6.0\DSPS - Trial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\DSPS - Trial\obj\Debug\net6.0\DSPS - Trial.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\DSPS - Trial\obj\Debug\net6.0\DSPS - Trial.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\DSPS - Trial\obj\Debug\net6.0\DSPS - Trial.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\DSPS - Trial\obj\Debug\net6.0\DSPS - Trial.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\DSPS - Trial\obj\Debug\net6.0\refint\DSPS - Trial.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\DSPS - Trial\obj\Debug\net6.0\DSPS - Trial.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\DSPS - Trial\obj\Debug\net6.0\DSPS - Trial.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\DSPS - Trial\obj\Debug\net6.0\ref\DSPS - Trial.dll

@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\IMS - Trial\bin\Debug\net6.0\IMS - Trial.exe
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\IMS - Trial\bin\Debug\net6.0\IMS - Trial.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\IMS - Trial\bin\Debug\net6.0\IMS - Trial.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\IMS - Trial\bin\Debug\net6.0\IMS - Trial.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\IMS - Trial\bin\Debug\net6.0\IMS - Trial.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\IMS - Trial\obj\Debug\net6.0\IMS - Trial.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\IMS - Trial\obj\Debug\net6.0\IMS - Trial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\IMS - Trial\obj\Debug\net6.0\IMS - Trial.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\IMS - Trial\obj\Debug\net6.0\IMS - Trial.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\IMS - Trial\obj\Debug\net6.0\IMS - Trial.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\IMS - Trial\obj\Debug\net6.0\IMS - Trial.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\IMS - Trial\obj\Debug\net6.0\refint\IMS - Trial.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\IMS - Trial\obj\Debug\net6.0\IMS - Trial.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\IMS - Trial\obj\Debug\net6.0\IMS - Trial.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub\ProgrammingAdvanced-Students\13 Recap\IMS - Trial\obj\Debug\net6.0\ref\IMS - Trial.dll
