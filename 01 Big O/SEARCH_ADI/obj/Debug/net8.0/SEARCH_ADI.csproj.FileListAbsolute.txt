@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_ADI\bin\Debug\net8.0\sorted_numbers.txt
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_ADI\bin\Debug\net8.0\SEARCH_ADI.exe
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_ADI\bin\Debug\net8.0\SEARCH_ADI.deps.json
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_ADI\bin\Debug\net8.0\SEARCH_ADI.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_ADI\bin\Debug\net8.0\SEARCH_ADI.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_ADI\bin\Debug\net8.0\SEARCH_ADI.pdb
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_ADI\obj\Debug\net8.0\SEARCH_ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_ADI\obj\Debug\net8.0\SEARCH_ADI.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_ADI\obj\Debug\net8.0\SEARCH_ADI.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_ADI\obj\Debug\net8.0\SEARCH_ADI.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_ADI\obj\Debug\net8.0\SEARCH_ADI.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_ADI\obj\Debug\net8.0\refint\SEARCH_ADI.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_ADI\obj\Debug\net8.0\SEARCH_ADI.pdb
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_ADI\obj\Debug\net8.0\SEARCH_ADI.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_ADI\obj\Debug\net8.0\ref\SEARCH_ADI.dll

@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SORT_IMS\bin\Debug\net8.0\SORT_IMS.exe
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SORT_IMS\bin\Debug\net8.0\SORT_IMS.deps.json
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SORT_IMS\bin\Debug\net8.0\SORT_IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SORT_IMS\bin\Debug\net8.0\SORT_IMS.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SORT_IMS\bin\Debug\net8.0\SORT_IMS.pdb
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SORT_IMS\obj\Debug\net8.0\SORT_IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SORT_IMS\obj\Debug\net8.0\SORT_IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SORT_IMS\obj\Debug\net8.0\SORT_IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SORT_IMS\obj\Debug\net8.0\SORT_IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SORT_IMS\obj\Debug\net8.0\SORT_IMS.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SORT_IMS\obj\Debug\net8.0\refint\SORT_IMS.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SORT_IMS\obj\Debug\net8.0\SORT_IMS.pdb
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SORT_IMS\obj\Debug\net8.0\SORT_IMS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SORT_IMS\obj\Debug\net8.0\ref\SORT_IMS.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SORT_IMS\bin\Debug\net8.0\numbers.txt

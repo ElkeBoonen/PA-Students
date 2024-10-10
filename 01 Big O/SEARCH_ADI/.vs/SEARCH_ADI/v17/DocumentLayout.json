@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\SEARCH_ADI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDED787F-5C9A-4255-A210-1D7C89A06F00}|SEARCH_ADI.csproj|c:\\users\\elkeb\\onedrive - hariko consulting bvba\\bureaublad\\search_adi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDED787F-5C9A-4255-A210-1D7C89A06F00}|SEARCH_ADI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDED787F-5C9A-4255-A210-1D7C89A06F00}|SEARCH_ADI.csproj|c:\\users\\elkeb\\onedrive - hariko consulting bvba\\bureaublad\\search_adi\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDED787F-5C9A-4255-A210-1D7C89A06F00}|SEARCH_ADI.csproj|solutionrelative:search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Search.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\SEARCH_ADI\\Search.cs",
+              "RelativeDocumentMoniker": "Search.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\SEARCH_ADI\\Search.cs",
+              "RelativeToolTip": "Search.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:31:11.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\SEARCH_ADI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\SEARCH_ADI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:22:56.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_ADI\bin\Debug\net8.0\LIST_ADI.exe
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_ADI\bin\Debug\net8.0\LIST_ADI.deps.json
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_ADI\bin\Debug\net8.0\LIST_ADI.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_ADI\bin\Debug\net8.0\LIST_ADI.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_ADI\bin\Debug\net8.0\LIST_ADI.pdb
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_ADI\obj\Debug\net8.0\LIST_ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_ADI\obj\Debug\net8.0\LIST_ADI.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_ADI\obj\Debug\net8.0\LIST_ADI.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_ADI\obj\Debug\net8.0\LIST_ADI.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_ADI\obj\Debug\net8.0\LIST_ADI.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_ADI\obj\Debug\net8.0\refint\LIST_ADI.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_ADI\obj\Debug\net8.0\LIST_ADI.pdb
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_ADI\obj\Debug\net8.0\LIST_ADI.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_ADI\obj\Debug\net8.0\ref\LIST_ADI.dll

@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_DSPS\bin\Debug\net8.0\sorted_numbers.txt
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_DSPS\bin\Debug\net8.0\SEARCH_DSPS.exe
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_DSPS\bin\Debug\net8.0\SEARCH_DSPS.deps.json
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_DSPS\bin\Debug\net8.0\SEARCH_DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_DSPS\bin\Debug\net8.0\SEARCH_DSPS.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_DSPS\bin\Debug\net8.0\SEARCH_DSPS.pdb
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_DSPS\obj\Debug\net8.0\SEARCH_DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_DSPS\obj\Debug\net8.0\SEARCH_DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_DSPS\obj\Debug\net8.0\SEARCH_DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_DSPS\obj\Debug\net8.0\SEARCH_DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_DSPS\obj\Debug\net8.0\SEARCH_DSPS.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_DSPS\obj\Debug\net8.0\refint\SEARCH_DSPS.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_DSPS\obj\Debug\net8.0\SEARCH_DSPS.pdb
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_DSPS\obj\Debug\net8.0\SEARCH_DSPS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\SEARCH_DSPS\obj\Debug\net8.0\ref\SEARCH_DSPS.dll

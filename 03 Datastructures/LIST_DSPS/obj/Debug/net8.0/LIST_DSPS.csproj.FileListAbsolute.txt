@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_DSPS\bin\Debug\net8.0\LIST_DSPS.exe
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_DSPS\bin\Debug\net8.0\LIST_DSPS.deps.json
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_DSPS\bin\Debug\net8.0\LIST_DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_DSPS\bin\Debug\net8.0\LIST_DSPS.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_DSPS\bin\Debug\net8.0\LIST_DSPS.pdb
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_DSPS\obj\Debug\net8.0\LIST_DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_DSPS\obj\Debug\net8.0\LIST_DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_DSPS\obj\Debug\net8.0\LIST_DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_DSPS\obj\Debug\net8.0\LIST_DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_DSPS\obj\Debug\net8.0\LIST_DSPS.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_DSPS\obj\Debug\net8.0\refint\LIST_DSPS.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_DSPS\obj\Debug\net8.0\LIST_DSPS.pdb
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_DSPS\obj\Debug\net8.0\LIST_DSPS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\LIST_DSPS\obj\Debug\net8.0\ref\LIST_DSPS.dll

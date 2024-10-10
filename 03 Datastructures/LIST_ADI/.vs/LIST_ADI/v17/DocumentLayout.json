@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\LIST_ADI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC541F2-F74F-4BBA-86DF-B31FC7041B27}|LIST_ADI.csproj|c:\\users\\elkeb\\onedrive - hariko consulting bvba\\bureaublad\\list_adi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC541F2-F74F-4BBA-86DF-B31FC7041B27}|LIST_ADI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC541F2-F74F-4BBA-86DF-B31FC7041B27}|LIST_ADI.csproj|c:\\users\\elkeb\\onedrive - hariko consulting bvba\\bureaublad\\list_adi\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC541F2-F74F-4BBA-86DF-B31FC7041B27}|LIST_ADI.csproj|solutionrelative:stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 273,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\LIST_ADI\\Stack.cs",
+              "RelativeDocumentMoniker": "Stack.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\LIST_ADI\\Stack.cs",
+              "RelativeToolTip": "Stack.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:23:19.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\LIST_ADI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\LIST_ADI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:52:18.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

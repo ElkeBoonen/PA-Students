@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\SEARCH_DSPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E96A7DBC-E5E6-4020-A09F-71766CA83A53}|SEARCH_DSPS.csproj|c:\\users\\elkeb\\onedrive - hariko consulting bvba\\bureaublad\\search_dsps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96A7DBC-E5E6-4020-A09F-71766CA83A53}|SEARCH_DSPS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96A7DBC-E5E6-4020-A09F-71766CA83A53}|SEARCH_DSPS.csproj|c:\\users\\elkeb\\onedrive - hariko consulting bvba\\bureaublad\\search_dsps\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96A7DBC-E5E6-4020-A09F-71766CA83A53}|SEARCH_DSPS.csproj|solutionrelative:search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96A7DBC-E5E6-4020-A09F-71766CA83A53}|SEARCH_DSPS.csproj|c:\\users\\elkeb\\onedrive - hariko consulting bvba\\bureaublad\\search_dsps\\sorted_numbers.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E96A7DBC-E5E6-4020-A09F-71766CA83A53}|SEARCH_DSPS.csproj|solutionrelative:sorted_numbers.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Search.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\SEARCH_DSPS\\Search.cs",
+              "RelativeDocumentMoniker": "Search.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\SEARCH_DSPS\\Search.cs",
+              "RelativeToolTip": "Search.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwDUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:39:12.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sorted_numbers.txt",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\SEARCH_DSPS\\sorted_numbers.txt",
+              "RelativeDocumentMoniker": "sorted_numbers.txt",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\SEARCH_DSPS\\sorted_numbers.txt",
+              "RelativeToolTip": "sorted_numbers.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-20T08:34:49.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\SEARCH_DSPS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\SEARCH_DSPS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:34:03.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

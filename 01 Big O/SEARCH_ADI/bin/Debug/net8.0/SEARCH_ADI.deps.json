@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SEARCH_ADI/1.0.0": {
+        "runtime": {
+          "SEARCH_ADI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEARCH_ADI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
