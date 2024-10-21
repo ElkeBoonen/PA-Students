@@ -1,0 +1,14 @@
+C:\Users\elkeb\source\repos\BACK_ADI\bin\Debug\net8.0\BACK_ADI.exe
+C:\Users\elkeb\source\repos\BACK_ADI\bin\Debug\net8.0\BACK_ADI.deps.json
+C:\Users\elkeb\source\repos\BACK_ADI\bin\Debug\net8.0\BACK_ADI.runtimeconfig.json
+C:\Users\elkeb\source\repos\BACK_ADI\bin\Debug\net8.0\BACK_ADI.dll
+C:\Users\elkeb\source\repos\BACK_ADI\bin\Debug\net8.0\BACK_ADI.pdb
+C:\Users\elkeb\source\repos\BACK_ADI\obj\Debug\net8.0\BACK_ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\source\repos\BACK_ADI\obj\Debug\net8.0\BACK_ADI.AssemblyInfoInputs.cache
+C:\Users\elkeb\source\repos\BACK_ADI\obj\Debug\net8.0\BACK_ADI.AssemblyInfo.cs
+C:\Users\elkeb\source\repos\BACK_ADI\obj\Debug\net8.0\BACK_ADI.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\source\repos\BACK_ADI\obj\Debug\net8.0\BACK_ADI.dll
+C:\Users\elkeb\source\repos\BACK_ADI\obj\Debug\net8.0\refint\BACK_ADI.dll
+C:\Users\elkeb\source\repos\BACK_ADI\obj\Debug\net8.0\BACK_ADI.pdb
+C:\Users\elkeb\source\repos\BACK_ADI\obj\Debug\net8.0\BACK_ADI.genruntimeconfig.cache
+C:\Users\elkeb\source\repos\BACK_ADI\obj\Debug\net8.0\ref\BACK_ADI.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RECURSION_DSPS", "RECURSION_DSPS.csproj", "{3262E71B-7998-43F9-97E4-0F11360434C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3262E71B-7998-43F9-97E4-0F11360434C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3262E71B-7998-43F9-97E4-0F11360434C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3262E71B-7998-43F9-97E4-0F11360434C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3262E71B-7998-43F9-97E4-0F11360434C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC4ED82F-1785-48B4-9BB3-13E02BE8C0CF}
+	EndGlobalSection
+EndGlobal

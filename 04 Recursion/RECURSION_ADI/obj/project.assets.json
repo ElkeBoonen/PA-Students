@@ -1,0 +1,105 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "TM.ProgrammingAdvanced/1.0.5": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/TM.ProgrammingAdvanced.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/TM.ProgrammingAdvanced.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TM.ProgrammingAdvanced/1.0.5": {
+      "sha512": "yk3SD38FmA0QEj8+hwK2rlPrSQYzTwSKznBuLO7HddTXB8t0J80Mb2eXjtxhR3ocpCYldooF4TKniQ9/S2tJTw==",
+      "type": "package",
+      "path": "tm.programmingadvanced/1.0.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.1/TM.ProgrammingAdvanced.dll",
+        "license.txt",
+        "tm.programmingadvanced.1.0.5.nupkg.sha512",
+        "tm.programmingadvanced.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "TM.ProgrammingAdvanced >= 1.0.5"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\elkeb\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\04 Recursion\\RECURSION_ADI\\RECURSION_ADI.csproj",
+      "projectName": "RECURSION_ADI",
+      "projectPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\04 Recursion\\RECURSION_ADI\\RECURSION_ADI.csproj",
+      "packagesPath": "C:\\Users\\elkeb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\04 Recursion\\RECURSION_ADI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\elkeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "TM.ProgrammingAdvanced": {
+            "target": "Package",
+            "version": "[1.0.5, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BACK_DSPS/1.0.0": {
+        "runtime": {
+          "BACK_DSPS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BACK_DSPS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

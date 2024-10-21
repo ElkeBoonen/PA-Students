@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elkeb\\source\\repos\\BACK_ADI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8811F7AB-BB49-4759-96F7-250C13AD3617}|BACK_ADI.csproj|c:\\users\\elkeb\\source\\repos\\back_adi\\queens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8811F7AB-BB49-4759-96F7-250C13AD3617}|BACK_ADI.csproj|solutionrelative:queens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8811F7AB-BB49-4759-96F7-250C13AD3617}|BACK_ADI.csproj|c:\\users\\elkeb\\source\\repos\\back_adi\\subset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8811F7AB-BB49-4759-96F7-250C13AD3617}|BACK_ADI.csproj|solutionrelative:subset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8811F7AB-BB49-4759-96F7-250C13AD3617}|BACK_ADI.csproj|c:\\users\\elkeb\\source\\repos\\back_adi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8811F7AB-BB49-4759-96F7-250C13AD3617}|BACK_ADI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Queens.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\source\\repos\\BACK_ADI\\Queens.cs",
+              "RelativeDocumentMoniker": "Queens.cs",
+              "ToolTip": "C:\\Users\\elkeb\\source\\repos\\BACK_ADI\\Queens.cs",
+              "RelativeToolTip": "Queens.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwvz8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:25:26.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subset.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\source\\repos\\BACK_ADI\\Subset.cs",
+              "RelativeDocumentMoniker": "Subset.cs",
+              "ToolTip": "C:\\Users\\elkeb\\source\\repos\\BACK_ADI\\Subset.cs",
+              "RelativeToolTip": "Subset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:18:52.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\source\\repos\\BACK_ADI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\elkeb\\source\\repos\\BACK_ADI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:59:18.303Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
