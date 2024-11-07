@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\06 D\u0026C\\DC_ADI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9B732D-F1F4-4429-B0B9-CDA6A112129B}|DC_ADI.csproj|c:\\users\\elkeb\\onedrive - thomas more\\github 24-25\\pa-students\\06 d\u0026c\\dc_adi\\hanoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9B732D-F1F4-4429-B0B9-CDA6A112129B}|DC_ADI.csproj|solutionrelative:hanoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9B732D-F1F4-4429-B0B9-CDA6A112129B}|DC_ADI.csproj|c:\\users\\elkeb\\onedrive - thomas more\\github 24-25\\pa-students\\06 d\u0026c\\dc_adi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9B732D-F1F4-4429-B0B9-CDA6A112129B}|DC_ADI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9B732D-F1F4-4429-B0B9-CDA6A112129B}|DC_ADI.csproj|c:\\users\\elkeb\\onedrive - thomas more\\github 24-25\\pa-students\\06 d\u0026c\\dc_adi\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9B732D-F1F4-4429-B0B9-CDA6A112129B}|DC_ADI.csproj|solutionrelative:quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9B732D-F1F4-4429-B0B9-CDA6A112129B}|DC_ADI.csproj|c:\\users\\elkeb\\onedrive - thomas more\\github 24-25\\pa-students\\06 d\u0026c\\dc_adi\\sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9B732D-F1F4-4429-B0B9-CDA6A112129B}|DC_ADI.csproj|solutionrelative:sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hanoi.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\06 D\u0026C\\DC_ADI\\Hanoi.cs",
+              "RelativeDocumentMoniker": "Hanoi.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\06 D\u0026C\\DC_ADI\\Hanoi.cs",
+              "RelativeToolTip": "Hanoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:31:34.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuickSort.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\06 D\u0026C\\DC_ADI\\QuickSort.cs",
+              "RelativeDocumentMoniker": "QuickSort.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\06 D\u0026C\\DC_ADI\\QuickSort.cs",
+              "RelativeToolTip": "QuickSort.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwEkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:38:57.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sum.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\06 D\u0026C\\DC_ADI\\Sum.cs",
+              "RelativeDocumentMoniker": "Sum.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\06 D\u0026C\\DC_ADI\\Sum.cs",
+              "RelativeToolTip": "Sum.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:15:25.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\06 D\u0026C\\DC_ADI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\06 D\u0026C\\DC_ADI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:09:07.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

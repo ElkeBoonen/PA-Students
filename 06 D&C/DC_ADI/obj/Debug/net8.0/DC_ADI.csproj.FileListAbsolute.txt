@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_ADI\bin\Debug\net8.0\DC_ADI.exe
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_ADI\bin\Debug\net8.0\DC_ADI.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_ADI\bin\Debug\net8.0\DC_ADI.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_ADI\bin\Debug\net8.0\DC_ADI.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_ADI\bin\Debug\net8.0\DC_ADI.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_ADI\obj\Debug\net8.0\DC_ADI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_ADI\obj\Debug\net8.0\DC_ADI.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_ADI\obj\Debug\net8.0\DC_ADI.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_ADI\obj\Debug\net8.0\DC_ADI.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_ADI\obj\Debug\net8.0\DC_ADI.sourcelink.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_ADI\obj\Debug\net8.0\DC_ADI.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_ADI\obj\Debug\net8.0\refint\DC_ADI.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_ADI\obj\Debug\net8.0\DC_ADI.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_ADI\obj\Debug\net8.0\DC_ADI.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_ADI\obj\Debug\net8.0\ref\DC_ADI.dll

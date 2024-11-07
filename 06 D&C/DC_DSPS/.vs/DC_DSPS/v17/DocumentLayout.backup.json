@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\06 D\u0026C\\DC_DSPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C89BE1A8-B754-4889-8619-B18A2B90FF59}|DC_DSPS.csproj|c:\\users\\elkeb\\onedrive - thomas more\\github 24-25\\pa-students\\06 d\u0026c\\dc_dsps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C89BE1A8-B754-4889-8619-B18A2B90FF59}|DC_DSPS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89BE1A8-B754-4889-8619-B18A2B90FF59}|DC_DSPS.csproj|c:\\users\\elkeb\\onedrive - thomas more\\github 24-25\\pa-students\\06 d\u0026c\\dc_dsps\\hanoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C89BE1A8-B754-4889-8619-B18A2B90FF59}|DC_DSPS.csproj|solutionrelative:hanoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89BE1A8-B754-4889-8619-B18A2B90FF59}|DC_DSPS.csproj|c:\\users\\elkeb\\onedrive - thomas more\\github 24-25\\pa-students\\06 d\u0026c\\dc_dsps\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C89BE1A8-B754-4889-8619-B18A2B90FF59}|DC_DSPS.csproj|solutionrelative:quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89BE1A8-B754-4889-8619-B18A2B90FF59}|DC_DSPS.csproj|c:\\users\\elkeb\\onedrive - thomas more\\github 24-25\\pa-students\\06 d\u0026c\\dc_dsps\\sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C89BE1A8-B754-4889-8619-B18A2B90FF59}|DC_DSPS.csproj|solutionrelative:sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hanoi.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\06 D\u0026C\\DC_DSPS\\Hanoi.cs",
+              "RelativeDocumentMoniker": "Hanoi.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\06 D\u0026C\\DC_DSPS\\Hanoi.cs",
+              "RelativeToolTip": "Hanoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:24:05.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuickSort.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\06 D\u0026C\\DC_DSPS\\QuickSort.cs",
+              "RelativeDocumentMoniker": "QuickSort.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\06 D\u0026C\\DC_DSPS\\QuickSort.cs",
+              "RelativeToolTip": "QuickSort.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA6wCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:22:43.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sum.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\06 D\u0026C\\DC_DSPS\\Sum.cs",
+              "RelativeDocumentMoniker": "Sum.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\06 D\u0026C\\DC_DSPS\\Sum.cs",
+              "RelativeToolTip": "Sum.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA4wDAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:03:36.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\06 D\u0026C\\DC_DSPS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\06 D\u0026C\\DC_DSPS\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:58:28.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

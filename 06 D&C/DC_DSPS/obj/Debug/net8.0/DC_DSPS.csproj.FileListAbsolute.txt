@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_DSPS\bin\Debug\net8.0\DC_DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_DSPS\bin\Debug\net8.0\DC_DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_DSPS\bin\Debug\net8.0\DC_DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_DSPS\bin\Debug\net8.0\DC_DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_DSPS\bin\Debug\net8.0\DC_DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_DSPS\obj\Debug\net8.0\DC_DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_DSPS\obj\Debug\net8.0\DC_DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_DSPS\obj\Debug\net8.0\DC_DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_DSPS\obj\Debug\net8.0\DC_DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_DSPS\obj\Debug\net8.0\DC_DSPS.sourcelink.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_DSPS\obj\Debug\net8.0\DC_DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_DSPS\obj\Debug\net8.0\refint\DC_DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_DSPS\obj\Debug\net8.0\DC_DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_DSPS\obj\Debug\net8.0\DC_DSPS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\06 D&C\DC_DSPS\obj\Debug\net8.0\ref\DC_DSPS.dll
