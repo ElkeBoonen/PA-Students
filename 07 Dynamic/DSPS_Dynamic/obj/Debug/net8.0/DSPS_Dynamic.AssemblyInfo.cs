@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DSPS_Dynamic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c7897b1e730dcc92283256fdef56af105f893ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6542345dabb99891e2cf4a7ee09914dea9955b67")]
 [assembly: System.Reflection.AssemblyProductAttribute("DSPS_Dynamic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DSPS_Dynamic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\ADI_Dynamic\bin\Debug\net8.0\ADI_Dynamic.exe
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\ADI_Dynamic\bin\Debug\net8.0\ADI_Dynamic.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\ADI_Dynamic\bin\Debug\net8.0\ADI_Dynamic.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\ADI_Dynamic\bin\Debug\net8.0\ADI_Dynamic.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\ADI_Dynamic\bin\Debug\net8.0\ADI_Dynamic.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\ADI_Dynamic\obj\Debug\net8.0\ADI_Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\ADI_Dynamic\obj\Debug\net8.0\ADI_Dynamic.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\ADI_Dynamic\obj\Debug\net8.0\ADI_Dynamic.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\ADI_Dynamic\obj\Debug\net8.0\ADI_Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\ADI_Dynamic\obj\Debug\net8.0\ADI_Dynamic.sourcelink.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\ADI_Dynamic\obj\Debug\net8.0\ADI_Dynamic.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\ADI_Dynamic\obj\Debug\net8.0\refint\ADI_Dynamic.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\ADI_Dynamic\obj\Debug\net8.0\ADI_Dynamic.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\ADI_Dynamic\obj\Debug\net8.0\ADI_Dynamic.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\ADI_Dynamic\obj\Debug\net8.0\ref\ADI_Dynamic.dll
