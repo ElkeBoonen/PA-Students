@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\DSPS_Dynamic\bin\Debug\net8.0\DSPS_Dynamic.exe
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\DSPS_Dynamic\bin\Debug\net8.0\DSPS_Dynamic.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\DSPS_Dynamic\bin\Debug\net8.0\DSPS_Dynamic.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\DSPS_Dynamic\bin\Debug\net8.0\DSPS_Dynamic.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\DSPS_Dynamic\bin\Debug\net8.0\DSPS_Dynamic.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\DSPS_Dynamic\obj\Debug\net8.0\DSPS_Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\DSPS_Dynamic\obj\Debug\net8.0\DSPS_Dynamic.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\DSPS_Dynamic\obj\Debug\net8.0\DSPS_Dynamic.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\DSPS_Dynamic\obj\Debug\net8.0\DSPS_Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\DSPS_Dynamic\obj\Debug\net8.0\DSPS_Dynamic.sourcelink.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\DSPS_Dynamic\obj\Debug\net8.0\DSPS_Dynamic.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\DSPS_Dynamic\obj\Debug\net8.0\refint\DSPS_Dynamic.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\DSPS_Dynamic\obj\Debug\net8.0\DSPS_Dynamic.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\DSPS_Dynamic\obj\Debug\net8.0\DSPS_Dynamic.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\07 Dynamic\DSPS_Dynamic\obj\Debug\net8.0\ref\DSPS_Dynamic.dll
