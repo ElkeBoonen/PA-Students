@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\08 Graphs\\ADI_Maze\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AB5605-2241-4EA0-93B5-CAFEB0744B7C}|ADI_Maze.csproj|c:\\users\\elkeb\\onedrive - thomas more\\github 24-25\\pa-students\\08 graphs\\adi_maze\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AB5605-2241-4EA0-93B5-CAFEB0744B7C}|ADI_Maze.csproj|solutionrelative:maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AB5605-2241-4EA0-93B5-CAFEB0744B7C}|ADI_Maze.csproj|c:\\users\\elkeb\\onedrive - thomas more\\github 24-25\\pa-students\\08 graphs\\adi_maze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AB5605-2241-4EA0-93B5-CAFEB0744B7C}|ADI_Maze.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\08 Graphs\\ADI_Maze\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\08 Graphs\\ADI_Maze\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:08:08.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Maze.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\08 Graphs\\ADI_Maze\\Maze.cs",
+              "RelativeDocumentMoniker": "Maze.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\08 Graphs\\ADI_Maze\\Maze.cs*",
+              "RelativeToolTip": "Maze.cs*",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwE0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:24:42.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

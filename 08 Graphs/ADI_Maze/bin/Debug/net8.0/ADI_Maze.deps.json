@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ADI_Maze/1.0.0": {
+        "runtime": {
+          "ADI_Maze.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ADI_Maze/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

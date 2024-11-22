@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\08 Graphs\\DSPS_Maze\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5705BE4-53C6-434F-BFA3-277557F263E3}|DSPS_Maze.csproj|c:\\users\\elkeb\\onedrive - thomas more\\github 24-25\\pa-students\\08 graphs\\dsps_maze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5705BE4-53C6-434F-BFA3-277557F263E3}|DSPS_Maze.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5705BE4-53C6-434F-BFA3-277557F263E3}|DSPS_Maze.csproj|c:\\users\\elkeb\\onedrive - thomas more\\github 24-25\\pa-students\\08 graphs\\dsps_maze\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5705BE4-53C6-434F-BFA3-277557F263E3}|DSPS_Maze.csproj|solutionrelative:maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Maze.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\08 Graphs\\DSPS_Maze\\Maze.cs",
+              "RelativeDocumentMoniker": "Maze.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\08 Graphs\\DSPS_Maze\\Maze.cs",
+              "RelativeToolTip": "Maze.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwFwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:22:51.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\08 Graphs\\DSPS_Maze\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\08 Graphs\\DSPS_Maze\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:19:48.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
