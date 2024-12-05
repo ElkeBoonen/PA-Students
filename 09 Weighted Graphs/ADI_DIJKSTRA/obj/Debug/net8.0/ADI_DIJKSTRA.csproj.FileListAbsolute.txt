@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\ADI_DIJKSTRA\bin\Debug\net8.0\ADI_DIJKSTRA.exe
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\ADI_DIJKSTRA\bin\Debug\net8.0\ADI_DIJKSTRA.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\ADI_DIJKSTRA\bin\Debug\net8.0\ADI_DIJKSTRA.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\ADI_DIJKSTRA\bin\Debug\net8.0\ADI_DIJKSTRA.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\ADI_DIJKSTRA\bin\Debug\net8.0\ADI_DIJKSTRA.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\ADI_DIJKSTRA\obj\Debug\net8.0\ADI_DIJKSTRA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\ADI_DIJKSTRA\obj\Debug\net8.0\ADI_DIJKSTRA.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\ADI_DIJKSTRA\obj\Debug\net8.0\ADI_DIJKSTRA.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\ADI_DIJKSTRA\obj\Debug\net8.0\ADI_DIJKSTRA.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\ADI_DIJKSTRA\obj\Debug\net8.0\ADI_DIJKSTRA.sourcelink.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\ADI_DIJKSTRA\obj\Debug\net8.0\ADI_DIJKSTRA.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\ADI_DIJKSTRA\obj\Debug\net8.0\refint\ADI_DIJKSTRA.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\ADI_DIJKSTRA\obj\Debug\net8.0\ADI_DIJKSTRA.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\ADI_DIJKSTRA\obj\Debug\net8.0\ADI_DIJKSTRA.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\ADI_DIJKSTRA\obj\Debug\net8.0\ref\ADI_DIJKSTRA.dll

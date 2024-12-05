@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\DSPS_Dijkstra\bin\Debug\net8.0\DSPS_Dijkstra.exe
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\DSPS_Dijkstra\bin\Debug\net8.0\DSPS_Dijkstra.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\DSPS_Dijkstra\bin\Debug\net8.0\DSPS_Dijkstra.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\DSPS_Dijkstra\bin\Debug\net8.0\DSPS_Dijkstra.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\DSPS_Dijkstra\bin\Debug\net8.0\DSPS_Dijkstra.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\DSPS_Dijkstra\obj\Debug\net8.0\DSPS_Dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\DSPS_Dijkstra\obj\Debug\net8.0\DSPS_Dijkstra.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\DSPS_Dijkstra\obj\Debug\net8.0\DSPS_Dijkstra.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\DSPS_Dijkstra\obj\Debug\net8.0\DSPS_Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\DSPS_Dijkstra\obj\Debug\net8.0\DSPS_Dijkstra.sourcelink.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\DSPS_Dijkstra\obj\Debug\net8.0\DSPS_Dijkstra.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\DSPS_Dijkstra\obj\Debug\net8.0\refint\DSPS_Dijkstra.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\DSPS_Dijkstra\obj\Debug\net8.0\DSPS_Dijkstra.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\DSPS_Dijkstra\obj\Debug\net8.0\DSPS_Dijkstra.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\09 Weighted Graphs\DSPS_Dijkstra\obj\Debug\net8.0\ref\DSPS_Dijkstra.dll
