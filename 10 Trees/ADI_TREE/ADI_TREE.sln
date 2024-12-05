@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADI_TREE", "ADI_TREE.csproj", "{A9FD2172-F516-4073-9CC3-3DDE8410FE42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9FD2172-F516-4073-9CC3-3DDE8410FE42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9FD2172-F516-4073-9CC3-3DDE8410FE42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9FD2172-F516-4073-9CC3-3DDE8410FE42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9FD2172-F516-4073-9CC3-3DDE8410FE42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {545EDE4E-73BE-4A32-97C4-A34B209238CC}
+	EndGlobalSection
+EndGlobal

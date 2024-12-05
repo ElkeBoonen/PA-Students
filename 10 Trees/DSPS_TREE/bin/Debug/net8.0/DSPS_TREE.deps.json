@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DSPS_TREE/1.0.0": {
+        "runtime": {
+          "DSPS_TREE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DSPS_TREE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

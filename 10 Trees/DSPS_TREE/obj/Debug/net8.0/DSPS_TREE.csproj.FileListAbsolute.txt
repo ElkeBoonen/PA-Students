@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_TREE\bin\Debug\net8.0\DSPS_TREE.exe
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_TREE\bin\Debug\net8.0\DSPS_TREE.deps.json
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_TREE\bin\Debug\net8.0\DSPS_TREE.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_TREE\bin\Debug\net8.0\DSPS_TREE.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_TREE\bin\Debug\net8.0\DSPS_TREE.pdb
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_TREE\obj\Debug\net8.0\DSPS_TREE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_TREE\obj\Debug\net8.0\DSPS_TREE.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_TREE\obj\Debug\net8.0\DSPS_TREE.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_TREE\obj\Debug\net8.0\DSPS_TREE.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_TREE\obj\Debug\net8.0\DSPS_TREE.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_TREE\obj\Debug\net8.0\refint\DSPS_TREE.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_TREE\obj\Debug\net8.0\DSPS_TREE.pdb
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_TREE\obj\Debug\net8.0\DSPS_TREE.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_TREE\obj\Debug\net8.0\ref\DSPS_TREE.dll
