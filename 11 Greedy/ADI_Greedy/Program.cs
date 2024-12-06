@@ -1,4 +1,6 @@
-﻿namespace ADI_Gredy
+﻿using System.ComponentModel.Design;
+
+namespace ADI_Gredy
 {
     internal class Program
     {
@@ -15,7 +17,21 @@
             schedule.Lessons.Sort();
             Console.WriteLine(schedule.ToString());
 
+            List<Lesson> list = schedule.Make();
+            foreach (Lesson l in list)
+            {
+                Console.WriteLine(l.Name);
+            }
 
+
+            Tree tree = new Tree(40);
+            tree.Root.Left = new Node(25);
+            tree.Root.Right = new Node(29);
+            tree.Root.Left.Left = new Node(35);
+            tree.Root.Left.Right = new Node(40);
+            tree.Root.Right.Right = new Node(12);
+
+            Console.Read();
         }
     }
 }

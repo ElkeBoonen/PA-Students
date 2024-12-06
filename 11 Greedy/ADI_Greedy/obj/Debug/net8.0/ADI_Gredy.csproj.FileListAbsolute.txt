@@ -12,3 +12,18 @@ C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\ADI_Gredy\obj\Debug\
 C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\ADI_Gredy\obj\Debug\net8.0\ADI_Gredy.pdb
 C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\ADI_Gredy\obj\Debug\net8.0\ADI_Gredy.genruntimeconfig.cache
 C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\ADI_Gredy\obj\Debug\net8.0\ref\ADI_Gredy.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\11 Greedy\ADI_Greedy\bin\Debug\net8.0\ADI_Gredy.exe
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\11 Greedy\ADI_Greedy\bin\Debug\net8.0\ADI_Gredy.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\11 Greedy\ADI_Greedy\bin\Debug\net8.0\ADI_Gredy.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\11 Greedy\ADI_Greedy\bin\Debug\net8.0\ADI_Gredy.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\11 Greedy\ADI_Greedy\bin\Debug\net8.0\ADI_Gredy.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\11 Greedy\ADI_Greedy\obj\Debug\net8.0\ADI_Gredy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\11 Greedy\ADI_Greedy\obj\Debug\net8.0\ADI_Gredy.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\11 Greedy\ADI_Greedy\obj\Debug\net8.0\ADI_Gredy.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\11 Greedy\ADI_Greedy\obj\Debug\net8.0\ADI_Gredy.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\11 Greedy\ADI_Greedy\obj\Debug\net8.0\ADI_Gredy.sourcelink.json
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\11 Greedy\ADI_Greedy\obj\Debug\net8.0\ADI_Gredy.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\11 Greedy\ADI_Greedy\obj\Debug\net8.0\refint\ADI_Gredy.dll
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\11 Greedy\ADI_Greedy\obj\Debug\net8.0\ADI_Gredy.pdb
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\11 Greedy\ADI_Greedy\obj\Debug\net8.0\ADI_Gredy.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\GitHub 24-25\PA-Students\11 Greedy\ADI_Greedy\obj\Debug\net8.0\ref\ADI_Gredy.dll

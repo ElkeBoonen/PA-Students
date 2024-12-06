@@ -17,7 +17,20 @@ namespace ADI_Gredy
 
         public List<Lesson> Make()
         { 
-            
+            List<Lesson> list = new List<Lesson>();
+
+            this.Lessons.Sort();
+
+            list.Add(Lessons[0]);
+            for (int i = 1; i < this.Lessons.Count; i++)
+            {
+                if (Lessons[i].Start >= list.Last().End)
+                {
+                    list.Add(Lessons[i]);
+                }
+            }
+
+            return list;
         }
 
         public override string ToString()
