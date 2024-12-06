@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_Greedy\bin\Debug\net8.0\DSPS_Greedy.exe
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_Greedy\bin\Debug\net8.0\DSPS_Greedy.deps.json
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_Greedy\bin\Debug\net8.0\DSPS_Greedy.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_Greedy\bin\Debug\net8.0\DSPS_Greedy.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_Greedy\bin\Debug\net8.0\DSPS_Greedy.pdb
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_Greedy\obj\Debug\net8.0\DSPS_Greedy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_Greedy\obj\Debug\net8.0\DSPS_Greedy.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_Greedy\obj\Debug\net8.0\DSPS_Greedy.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_Greedy\obj\Debug\net8.0\DSPS_Greedy.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_Greedy\obj\Debug\net8.0\DSPS_Greedy.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_Greedy\obj\Debug\net8.0\refint\DSPS_Greedy.dll
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_Greedy\obj\Debug\net8.0\DSPS_Greedy.pdb
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_Greedy\obj\Debug\net8.0\DSPS_Greedy.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Hariko Consulting BVBA\Bureaublad\DSPS_Greedy\obj\Debug\net8.0\ref\DSPS_Greedy.dll
