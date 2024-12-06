@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\ADI_Gredy\\",
+  "WorkspaceRootPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\11 Greedy\\ADI_Greedy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F56E15CF-00C4-4E5D-A53C-AC3E45CC1259}|ADI_Gredy.csproj|c:\\users\\elkeb\\onedrive - hariko consulting bvba\\bureaublad\\adi_gredy\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F56E15CF-00C4-4E5D-A53C-AC3E45CC1259}|ADI_Gredy.csproj|solutionrelative:schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F56E15CF-00C4-4E5D-A53C-AC3E45CC1259}|ADI_Gredy.csproj|c:\\users\\elkeb\\onedrive - thomas more\\github 24-25\\pa-students\\11 greedy\\adi_greedy\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56E15CF-00C4-4E5D-A53C-AC3E45CC1259}|ADI_Gredy.csproj|solutionrelative:tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F56E15CF-00C4-4E5D-A53C-AC3E45CC1259}|ADI_Gredy.csproj|c:\\users\\elkeb\\onedrive - hariko consulting bvba\\bureaublad\\adi_gredy\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F56E15CF-00C4-4E5D-A53C-AC3E45CC1259}|ADI_Gredy.csproj|c:\\users\\elkeb\\onedrive - thomas more\\github 24-25\\pa-students\\11 greedy\\adi_greedy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56E15CF-00C4-4E5D-A53C-AC3E45CC1259}|ADI_Gredy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56E15CF-00C4-4E5D-A53C-AC3E45CC1259}|ADI_Gredy.csproj|c:\\users\\elkeb\\onedrive - thomas more\\github 24-25\\pa-students\\11 greedy\\adi_greedy\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F56E15CF-00C4-4E5D-A53C-AC3E45CC1259}|ADI_Gredy.csproj|solutionrelative:lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F56E15CF-00C4-4E5D-A53C-AC3E45CC1259}|ADI_Gredy.csproj|c:\\users\\elkeb\\onedrive - hariko consulting bvba\\bureaublad\\adi_gredy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F56E15CF-00C4-4E5D-A53C-AC3E45CC1259}|ADI_Gredy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F56E15CF-00C4-4E5D-A53C-AC3E45CC1259}|ADI_Gredy.csproj|c:\\users\\elkeb\\onedrive - thomas more\\github 24-25\\pa-students\\11 greedy\\adi_greedy\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56E15CF-00C4-4E5D-A53C-AC3E45CC1259}|ADI_Gredy.csproj|solutionrelative:schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,23 +31,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Tree.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\11 Greedy\\ADI_Greedy\\Tree.cs",
+              "RelativeDocumentMoniker": "Tree.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\11 Greedy\\ADI_Greedy\\Tree.cs",
+              "RelativeToolTip": "Tree.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:13:00.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Schedule.cs",
-              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\ADI_Gredy\\Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\11 Greedy\\ADI_Greedy\\Schedule.cs",
               "RelativeDocumentMoniker": "Schedule.cs",
-              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\ADI_Gredy\\Schedule.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\11 Greedy\\ADI_Greedy\\Schedule.cs",
               "RelativeToolTip": "Schedule.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T13:32:24.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Lesson.cs",
-              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\ADI_Gredy\\Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\11 Greedy\\ADI_Greedy\\Lesson.cs",
               "RelativeDocumentMoniker": "Lesson.cs",
-              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\ADI_Gredy\\Lesson.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\11 Greedy\\ADI_Greedy\\Lesson.cs",
               "RelativeToolTip": "Lesson.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -52,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\ADI_Gredy\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\11 Greedy\\ADI_Greedy\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\ADI_Gredy\\Program.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\11 Greedy\\ADI_Greedy\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T13:26:55.433Z",
               "EditorCaption": ""

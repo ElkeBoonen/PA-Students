@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\ADI_Gredy\\ADI_Gredy.csproj": {}
+    "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\11 Greedy\\ADI_Greedy\\ADI_Gredy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\ADI_Gredy\\ADI_Gredy.csproj": {
+    "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\11 Greedy\\ADI_Greedy\\ADI_Gredy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\ADI_Gredy\\ADI_Gredy.csproj",
+        "projectUniqueName": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\11 Greedy\\ADI_Greedy\\ADI_Gredy.csproj",
         "projectName": "ADI_Gredy",
-        "projectPath": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\ADI_Gredy\\ADI_Gredy.csproj",
+        "projectPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\11 Greedy\\ADI_Greedy\\ADI_Gredy.csproj",
         "packagesPath": "C:\\Users\\elkeb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\ADI_Gredy\\obj\\",
+        "outputPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\GitHub 24-25\\PA-Students\\11 Greedy\\ADI_Greedy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elkeb\\AppData\\Roaming\\NuGet\\NuGet.Config",

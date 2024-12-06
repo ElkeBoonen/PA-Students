@@ -31,6 +31,12 @@ namespace ADI_Gredy
             tree.Root.Left.Right = new Node(40);
             tree.Root.Right.Right = new Node(12);
 
+            Console.WriteLine(tree.Greedy(tree.Root));
+            Console.WriteLine(tree.Greedy());
+            Console.WriteLine(tree.Other(tree.Root));
+
+
+
             Console.Read();
         }
     }
