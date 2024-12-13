@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elkeb\\source\\repos\\ADI_Hashmaps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F384157-1D1E-4249-86E4-91D6D01735F3}|ADI_Hashmaps.csproj|c:\\users\\elkeb\\source\\repos\\adi_hashmaps\\book_hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F384157-1D1E-4249-86E4-91D6D01735F3}|ADI_Hashmaps.csproj|solutionrelative:book_hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F384157-1D1E-4249-86E4-91D6D01735F3}|ADI_Hashmaps.csproj|c:\\users\\elkeb\\source\\repos\\adi_hashmaps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F384157-1D1E-4249-86E4-91D6D01735F3}|ADI_Hashmaps.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book_Hash.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\source\\repos\\ADI_Hashmaps\\Book_Hash.cs",
+              "RelativeDocumentMoniker": "Book_Hash.cs",
+              "ToolTip": "C:\\Users\\elkeb\\source\\repos\\ADI_Hashmaps\\Book_Hash.cs",
+              "RelativeToolTip": "Book_Hash.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:31:24.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\source\\repos\\ADI_Hashmaps\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\elkeb\\source\\repos\\ADI_Hashmaps\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:30:01.582Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

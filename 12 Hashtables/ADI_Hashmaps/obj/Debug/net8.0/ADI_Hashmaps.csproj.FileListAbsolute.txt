@@ -1,0 +1,14 @@
+C:\Users\elkeb\source\repos\ADI_Hashmaps\bin\Debug\net8.0\ADI_Hashmaps.exe
+C:\Users\elkeb\source\repos\ADI_Hashmaps\bin\Debug\net8.0\ADI_Hashmaps.deps.json
+C:\Users\elkeb\source\repos\ADI_Hashmaps\bin\Debug\net8.0\ADI_Hashmaps.runtimeconfig.json
+C:\Users\elkeb\source\repos\ADI_Hashmaps\bin\Debug\net8.0\ADI_Hashmaps.dll
+C:\Users\elkeb\source\repos\ADI_Hashmaps\bin\Debug\net8.0\ADI_Hashmaps.pdb
+C:\Users\elkeb\source\repos\ADI_Hashmaps\obj\Debug\net8.0\ADI_Hashmaps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\source\repos\ADI_Hashmaps\obj\Debug\net8.0\ADI_Hashmaps.AssemblyInfoInputs.cache
+C:\Users\elkeb\source\repos\ADI_Hashmaps\obj\Debug\net8.0\ADI_Hashmaps.AssemblyInfo.cs
+C:\Users\elkeb\source\repos\ADI_Hashmaps\obj\Debug\net8.0\ADI_Hashmaps.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\source\repos\ADI_Hashmaps\obj\Debug\net8.0\ADI_Hashmaps.dll
+C:\Users\elkeb\source\repos\ADI_Hashmaps\obj\Debug\net8.0\refint\ADI_Hashmaps.dll
+C:\Users\elkeb\source\repos\ADI_Hashmaps\obj\Debug\net8.0\ADI_Hashmaps.pdb
+C:\Users\elkeb\source\repos\ADI_Hashmaps\obj\Debug\net8.0\ADI_Hashmaps.genruntimeconfig.cache
+C:\Users\elkeb\source\repos\ADI_Hashmaps\obj\Debug\net8.0\ref\ADI_Hashmaps.dll

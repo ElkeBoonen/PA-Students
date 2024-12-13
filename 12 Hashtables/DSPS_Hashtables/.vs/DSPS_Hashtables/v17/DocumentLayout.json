@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\DSPS_Hashtables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48148987-217C-4D45-A321-7790C9509CEB}|DSPS_Hashtables.csproj|c:\\users\\elkeb\\onedrive - hariko consulting bvba\\bureaublad\\dsps_hashtables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48148987-217C-4D45-A321-7790C9509CEB}|DSPS_Hashtables.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48148987-217C-4D45-A321-7790C9509CEB}|DSPS_Hashtables.csproj|c:\\users\\elkeb\\onedrive - hariko consulting bvba\\bureaublad\\dsps_hashtables\\book_hashsep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48148987-217C-4D45-A321-7790C9509CEB}|DSPS_Hashtables.csproj|solutionrelative:book_hashsep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48148987-217C-4D45-A321-7790C9509CEB}|DSPS_Hashtables.csproj|c:\\users\\elkeb\\onedrive - hariko consulting bvba\\bureaublad\\dsps_hashtables\\book_hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48148987-217C-4D45-A321-7790C9509CEB}|DSPS_Hashtables.csproj|solutionrelative:book_hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book_HashSep.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\DSPS_Hashtables\\Book_HashSep.cs",
+              "RelativeDocumentMoniker": "Book_HashSep.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\DSPS_Hashtables\\Book_HashSep.cs",
+              "RelativeToolTip": "Book_HashSep.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwEgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:06:19.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book_Hash.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\DSPS_Hashtables\\Book_Hash.cs",
+              "RelativeDocumentMoniker": "Book_Hash.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\DSPS_Hashtables\\Book_Hash.cs",
+              "RelativeToolTip": "Book_Hash.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:59:55.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\DSPS_Hashtables\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\elkeb\\OneDrive - Hariko Consulting BVBA\\Bureaublad\\DSPS_Hashtables\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:04:41.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ADI_Hashmaps/1.0.0": {
+        "runtime": {
+          "ADI_Hashmaps.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ADI_Hashmaps/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
