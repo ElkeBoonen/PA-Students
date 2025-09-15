@@ -7,7 +7,7 @@ namespace PAStudents
     {
         static void Main(string[] args)
         {
-            Searching search = Searching();
+            Searching search = new Searching();
             Console.ReadLine();
         }
     }
