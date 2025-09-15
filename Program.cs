@@ -9,8 +9,21 @@ namespace PAStudents
         {
             Searching search = new Searching();
 
-            Console.WriteLine($"LINEAR: {search.Linear(5)}");
-            Console.WriteLine($"STUPID: {search.Stupid(5)}");
+            int number = 836;
+            Console.WriteLine($"LINEAR: {search.Linear(number)} --> {search.Count}");
+            Console.WriteLine($"STUPID: {search.Stupid(number)} --> {search.Count}");
+            Console.WriteLine($"BINARY: {search.Binary(number)} --> {search.Count}");
+
+            number = -672;
+            Console.WriteLine($"LINEAR: {search.Linear(number)} --> {search.Count}");
+            Console.WriteLine($"STUPID: {search.Stupid(number)} --> {search.Count}");
+            Console.WriteLine($"BINARY: {search.Binary(number)} --> {search.Count}");
+            Console.ReadLine();
+
+            number = -630;
+            Console.WriteLine($"LINEAR: {search.Linear(number)} --> {search.Count}");
+            Console.WriteLine($"STUPID: {search.Stupid(number)} --> {search.Count}");
+            Console.WriteLine($"BINARY: {search.Binary(number)} --> {search.Count}");
             Console.ReadLine();
         }
     }
