@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Programming Advanced\Oefeningen\PA-Students\bin\Program.exe
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Programming Advanced\Oefeningen\PA-Students\bin\Program.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Programming Advanced\Oefeningen\PA-Students\bin\Program.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Programming Advanced\Oefeningen\PA-Students\bin\Program.dll
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Programming Advanced\Oefeningen\PA-Students\bin\Program.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Programming Advanced\Oefeningen\PA-Students\obj\Debug\net9.0\temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Programming Advanced\Oefeningen\PA-Students\obj\Debug\net9.0\temp.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Programming Advanced\Oefeningen\PA-Students\obj\Debug\net9.0\temp.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Programming Advanced\Oefeningen\PA-Students\obj\Debug\net9.0\temp.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Programming Advanced\Oefeningen\PA-Students\obj\Debug\net9.0\temp.sourcelink.json
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Programming Advanced\Oefeningen\PA-Students\obj\Debug\net9.0\Program.dll
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Programming Advanced\Oefeningen\PA-Students\obj\Debug\net9.0\refint\Program.dll
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Programming Advanced\Oefeningen\PA-Students\obj\Debug\net9.0\Program.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Programming Advanced\Oefeningen\PA-Students\obj\Debug\net9.0\temp.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\Cursusmateriaal\Programming Advanced\Oefeningen\PA-Students\obj\Debug\net9.0\ref\Program.dll
