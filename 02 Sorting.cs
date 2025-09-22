@@ -4,10 +4,14 @@ namespace PAStudents
     {
         //https://visualgo.net/en/sorting
         //https://www.youtube.com/@AlgoRythmics
+
+        public int Count { get; set; }
         public string Bubble(int[] array)
         {
+            Count = 0;
             for (int i = 0; i < array.Length; i++)
             {
+                bool flag = false;
                 for (int j = 0; j < array.Length - 1 - i; j++)
                 {
                     if (array[j] > array[j + 1])
@@ -15,8 +19,11 @@ namespace PAStudents
                         int temp = array[j];
                         array[j] = array[j + 1];
                         array[j + 1] = temp;
+                        flag = true;
                     }
-                    //Console.WriteLine(String.Join(" ", array));
+                    Count++;
+
+                    if (!flag) break;
                 }
 
             }
@@ -25,6 +32,7 @@ namespace PAStudents
 
         public string Selection(int[] array)
         {
+            Count = 0;
             //5 3 2 -1 10
             int smallest_index;
             for (int i = 0; i < array.Length; i++)
@@ -36,13 +44,14 @@ namespace PAStudents
                     {
                         smallest_index = j;
                     }
+                    Count++;
                 }
 
                 int temp = array[smallest_index];
                 array[smallest_index] = array[i];
                 array[i] = temp;
 
-                Console.WriteLine(String.Join(" ", array));
+                //Console.WriteLine(String.Join(" ", array));
             }
             return String.Join(" ", array);
         }
@@ -73,8 +82,28 @@ namespace PAStudents
         }
 
         public string Insertion(int[] array)
-        { 
+        {
+            //-1 -9 5 4 8 3 -7 2 10 -5
+            //-9 -9 3 3 2 -7 -7 2 -5 -5
+            Count = 0;
             
+            for (int i = 1; i < array.Length; i++)
+            {
+                for (int j = i; j > 0; j--)
+                {
+                    if (array[j] < array[j - 1])
+                    {
+                        int temp = array[j - 1];
+                        array[j - 1] = array[j];
+                        array[j] = temp;
+                        //Console.WriteLine(String.Join(" ", array));
+                    }
+                    else break;
+                    Count++;
+                }
+
+            }
+            return String.Join(" ", array);
         }
 
     }

@@ -8,15 +8,20 @@ namespace PAStudents
         static void Main(string[] args)
         {
             Sorting sorting = new Sorting();
-            int[] array = new int[] { -1, -9, 5, 4, 8, 3, -7, 2, 10, -5 };
-            Console.WriteLine(String.Join(" ", array));
-            //Console.WriteLine(sorting.Bubble(array));
+            int[] array = Array.ConvertAll(File.ReadAllLines(@"Files/numbers.txt"), Convert.ToInt32);
+            //Console.WriteLine(String.Join(" ", array));
+            sorting.Bubble(array);
+            Console.WriteLine("Bubble --> " + sorting.Count);
 
-            array = new int[] { -1, -9, 5, 4, 8, 3, -7, 2, 10, -5 };
-            Console.WriteLine(sorting.Selection(array));
+            array = Array.ConvertAll(File.ReadAllLines(@"Files/numbers.txt"), Convert.ToInt32);
+            sorting.Selection(array);
+            Console.WriteLine("Selection --> " + sorting.Count);
 
-            array = new int[] { -1, -9, 5, 4, 8, 3, -7, 2, 10, -5 };
-            Console.WriteLine(sorting.SelectionArray(array));
+            array = Array.ConvertAll(File.ReadAllLines(@"Files/numbers.txt"), Convert.ToInt32);
+            sorting.Insertion(array);
+            Console.WriteLine("Insertion --> " + sorting.Count);
+
+
 
         }
     }
