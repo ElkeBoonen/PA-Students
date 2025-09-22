@@ -7,24 +7,9 @@ namespace PAStudents
     {
         static void Main(string[] args)
         {
-            Searching search = new Searching();
-
-            int number = 836;
-            Console.WriteLine($"LINEAR: {search.Linear(number)} --> {search.Count}");
-            Console.WriteLine($"STUPID: {search.Stupid(number)} --> {search.Count}");
-            Console.WriteLine($"BINARY: {search.Binary(number)} --> {search.Count}");
-
-            number = -672;
-            Console.WriteLine($"LINEAR: {search.Linear(number)} --> {search.Count}");
-            Console.WriteLine($"STUPID: {search.Stupid(number)} --> {search.Count}");
-            Console.WriteLine($"BINARY: {search.Binary(number)} --> {search.Count}");
-            Console.ReadLine();
-
-            number = -630;
-            Console.WriteLine($"LINEAR: {search.Linear(number)} --> {search.Count}");
-            Console.WriteLine($"STUPID: {search.Stupid(number)} --> {search.Count}");
-            Console.WriteLine($"BINARY: {search.Binary(number)} --> {search.Count}");
-            Console.ReadLine();
+            Sorting sorting = new Sorting();
+            int[] array = new int[] { -1, -9, 5, 4, 8, 3, -7, 2, 10, -5 };
+            Console.WriteLine(sorting.Bubble(array));
         }
     }
 }
