@@ -9,7 +9,15 @@ namespace PAStudents
         {
             Sorting sorting = new Sorting();
             int[] array = new int[] { -1, -9, 5, 4, 8, 3, -7, 2, 10, -5 };
-            Console.WriteLine(sorting.Bubble(array));
+            Console.WriteLine(String.Join(" ", array));
+            //Console.WriteLine(sorting.Bubble(array));
+
+            array = new int[] { -1, -9, 5, 4, 8, 3, -7, 2, 10, -5 };
+            Console.WriteLine(sorting.Selection(array));
+
+            array = new int[] { -1, -9, 5, 4, 8, 3, -7, 2, 10, -5 };
+            Console.WriteLine(sorting.SelectionArray(array));
+
         }
     }
 }
