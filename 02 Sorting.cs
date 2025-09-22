@@ -22,10 +22,8 @@ namespace PAStudents
                         flag = true;
                     }
                     Count++;
-
-                    if (!flag) break;
                 }
-
+                if (!flag) break;
             }
             return String.Join(" ", array);
         }
@@ -86,7 +84,7 @@ namespace PAStudents
             //-1 -9 5 4 8 3 -7 2 10 -5
             //-9 -9 3 3 2 -7 -7 2 -5 -5
             Count = 0;
-            
+
             for (int i = 1; i < array.Length; i++)
             {
                 for (int j = i; j > 0; j--)
@@ -106,6 +104,23 @@ namespace PAStudents
             return String.Join(" ", array);
         }
 
+        /*
+        Check of Array Gesorteerd Is
+        Vind het eerste duplicaat in een array
+        Zoek het eerste positieve getal in een array
+        */
+
+        public bool IsSorted(int[] array)
+        {
+            for (int i = 0; i < array.Length; i++)
+            {
+                if (array[i] > array[i + 1])
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
     }
 
 }
