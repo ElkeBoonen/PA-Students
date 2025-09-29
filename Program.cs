@@ -7,8 +7,13 @@ namespace PAStudents
     {
         static void Main(string[] args)
         {
-            
 
+            LinkedList list = new LinkedList("appel");
+            list.Insert("banaan");
+            list.Insert("peer");
+            list.Insert("druif");
+            list.Insert("kiwi");
+            Console.WriteLine(list);
 
             /*Sorting sorting = new Sorting();
             int[] array = Array.ConvertAll(File.ReadAllLines(@"Files/sorted_numbers.txt"), Convert.ToInt32);
