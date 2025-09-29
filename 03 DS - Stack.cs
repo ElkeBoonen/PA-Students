@@ -7,34 +7,37 @@ namespace PAStudents
         public Stack(int size)
         {
             array = new string[size];
-            index = 0;
+            index = -1;
         }
 
         public void Push(string data)
         {
-            Console.WriteLine(index);
+            index++;
             if (index < array.Length)
             {
                 array[index] = data;
-                index++;
             }
-            else throw new Exception("Overflow!");
+            else
+            {
+                //throw new Exception("Overflow!");
+                Console.WriteLine("OVERFLOW!!!");
+                index = array.Length - 1;
+            }
         }
 
         public void Pop()
         {
-            Console.WriteLine(index);
-            if (array[0] == "" && index == 0)
+            if (index >= 0)
             {
-                throw new Exception("Underflow!");
-            }
-            else if (index == array.Length)
-            {
+                array[index] = "";
                 index--;
             }
-            array[index] = "";
-            index--;
-            
+            else
+            {
+                //throw new Exception("Underflow!");
+                Console.WriteLine("UNDERFLOW!!!");
+                index = -1;
+            }
         }
 
         public override string ToString()

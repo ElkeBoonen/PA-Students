@@ -42,13 +42,29 @@ namespace PAStudents
             stack.Push("appel"); Console.WriteLine(stack);
             stack.Push("appel"); Console.WriteLine(stack);
             stack.Push("appel"); Console.WriteLine(stack);
+            stack.Push("appel"); Console.WriteLine(stack);
+            stack.Push("appel"); Console.WriteLine(stack);
+            stack.Push("appel"); Console.WriteLine(stack);
+
             stack.Pop(); Console.WriteLine(stack);
             stack.Pop(); Console.WriteLine(stack);
             stack.Pop(); Console.WriteLine(stack);
             stack.Pop(); Console.WriteLine(stack);
             stack.Pop(); Console.WriteLine(stack);
             stack.Pop(); Console.WriteLine(stack);
-        
+
+
+            Queue queue = new Queue();
+            Console.WriteLine(queue);
+            queue.Enqueue("appel"); Console.WriteLine(queue);
+            queue.Enqueue("peer"); Console.WriteLine(queue);
+            queue.Enqueue("druif"); Console.WriteLine(queue);
+            queue.Dequeue(); Console.WriteLine(queue);
+            queue.Dequeue(); Console.WriteLine(queue);
+            queue.Dequeue(); Console.WriteLine(queue);
+
+
+
 
             /*Sorting sorting = new Sorting();
             int[] array = Array.ConvertAll(File.ReadAllLines(@"Files/sorted_numbers.txt"), Convert.ToInt32);
