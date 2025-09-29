@@ -49,7 +49,39 @@ namespace PAStudents
         }
 
         public bool Delete(string data)
-        { }
+        {
+            if (Head == null) return false;
+            if (Head.Data == data)
+            {
+                Head = Head.Next;
+                return true;
+            }
+            else
+            {
+                Node current = Head;
+                while (current.Next != null)
+                {
+                    if (current.Next.Data == data)
+                    {
+                        current.Next = current.Next.Next;
+                        return true;
+                    }
+                    current = current.Next;
+                }
+            }
+            return false;
+        }
+
+        public bool Search(string data)
+        {
+            Node current = Head;
+            while (current != null)
+            {
+                if (current.Data == data) return true;
+                current = current.Next;
+            }
+            return false;
+        }
 
         public override string ToString()
         {
