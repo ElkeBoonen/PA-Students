@@ -7,9 +7,11 @@ namespace PAStudents
     {
         static void Main(string[] args)
         {
-            
-            Recursion rec = new Recursion();
-            Console.WriteLine(rec.Algorithmn1(@"C:\3orhyvogped"));
+
+            NQueens nQueens = new NQueens(4);
+            Console.WriteLine(nQueens);
+
+            nQueens.Solve(0);
         }
     }
-}
+} 
