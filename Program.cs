@@ -12,9 +12,10 @@ namespace PAStudents
             Console.WriteLine(nQueens);
             nQueens.Solve(0);
 
-            Subset subset = new Subset(new int[] { 1, 2, 3 });
+            Subset subset = new Subset(new int[] { 1, 2, 3, 4, 5, 6, 7 });
             subset.Solve(new List<int>());
-            
+
+            subset.Solve2();
         }
     }
 } 
