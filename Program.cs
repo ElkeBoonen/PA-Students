@@ -17,11 +17,18 @@ namespace PAStudents
             qs.Count = 0;
             list = qs.Sort(list);
             Console.WriteLine("Count = " + qs.Count);
-            Console.WriteLine(String.Join(" ", list));
+            //Console.WriteLine(String.Join(" ", list));
 
 
-            Hanoi hanoi = new Hanoi();
-            hanoi.Solve(5, 'A', 'C', 'B');
+            //Hanoi hanoi = new Hanoi();
+            //hanoi.Solve(5, 'A', 'C', 'B');
+
+            Exercises ex = new Exercises();
+            Console.WriteLine(ex.Multiplication(new List<int>() { 1, 3, 4, 1, 2 }));
+            Console.WriteLine(ex.MultiplicationF(new List<int>() { 1, 3, 4, 1, 2 }));
+
+            Console.WriteLine(ex.MultiplicationR(new List<int>() { 1, 3, 4, 1, 2 }));
+
         }
     }
 } 
