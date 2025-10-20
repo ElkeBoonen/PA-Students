@@ -1,4 +1,5 @@
 using System;
+using System.Security.Cryptography;
 
 namespace PAStudents
 {
@@ -17,6 +18,10 @@ namespace PAStudents
             list = qs.Sort(list);
             Console.WriteLine("Count = " + qs.Count);
             Console.WriteLine(String.Join(" ", list));
+
+
+            Hanoi hanoi = new Hanoi();
+            hanoi.Solve(5, 'A', 'C', 'B');
         }
     }
 } 
