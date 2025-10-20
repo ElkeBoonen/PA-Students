@@ -7,15 +7,12 @@ namespace PAStudents
     {
         static void Main(string[] args)
         {
+            List<int> list = new List<int> { 12, 56, 34, 78, 23, 89, 12, 45, 12, 67, 90, 21 };
+            Console.WriteLine(String.Join(" ", list));
 
-            NQueens nQueens = new NQueens(4);
-            Console.WriteLine(nQueens);
-            nQueens.Solve(0);
-
-            Subset subset = new Subset(new int[] { 1, 2, 3, 4, 5, 6, 7 });
-            subset.Solve(new List<int>());
-
-            subset.Solve2();
+            QuickSort qs = new QuickSort();
+            list = qs.Solve(list);
+            Console.WriteLine(String.Join(" ", list));
         }
     }
 } 
