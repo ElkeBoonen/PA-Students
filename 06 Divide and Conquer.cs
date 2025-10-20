@@ -2,12 +2,18 @@ using System;
 
 namespace PAStudents
 {
+    //https://javalab.org/en/hanoi_tower_en/
+    class Hanoi
+    { }
+
+
     class QuickSort
     {
 
+       public int Count { get; set; }
         public List<int> Sort(List<int> list)
         {
-
+            Count++;
             if (list.Count <= 1) return list;
 
             List<int> small = new List<int>();
@@ -18,6 +24,7 @@ namespace PAStudents
 
             foreach (int element in list)
             {
+                Count++;
                 if (pivot > element) small.Add(element);
                 else if (pivot < element) big.Add(element);
                 else same.Add(pivot);

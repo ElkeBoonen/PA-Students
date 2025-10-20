@@ -7,11 +7,15 @@ namespace PAStudents
     {
         static void Main(string[] args)
         {
-            List<int> list = new List<int> { 12, 56, 34, 78, 23, 89, 12, 45, 12, 67, 90, 21 };
-            Console.WriteLine(String.Join(" ", list));
+            List<int> list = Array.ConvertAll(File.ReadAllLines(@"Files/numbers.txt"), int.Parse).ToList<int>();
+
+
+            //Console.WriteLine(String.Join(" ", list));
 
             QuickSort qs = new QuickSort();
-            list = qs.Solve(list);
+            qs.Count = 0;
+            list = qs.Sort(list);
+            Console.WriteLine("Count = " + qs.Count);
             Console.WriteLine(String.Join(" ", list));
         }
     }
