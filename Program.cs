@@ -8,27 +8,17 @@ namespace PAStudents
     {
         static void Main(string[] args)
         {
-            List<int> list = Array.ConvertAll(File.ReadAllLines(@"Files/numbers.txt"), int.Parse).ToList<int>();
+            RodCutting rc = new RodCutting();
+            int n = 10;
+            Console.WriteLine(rc.Solve(n));
+            /*
+            Fibonacci fib = new Fibonacci();
+            int n = 10;
+            Console.WriteLine("Gewone recursie :" + fib.Solve(n));
 
-
-            //Console.WriteLine(String.Join(" ", list));
-
-            QuickSort qs = new QuickSort();
-            qs.Count = 0;
-            list = qs.Sort(list);
-            Console.WriteLine("Count = " + qs.Count);
-            //Console.WriteLine(String.Join(" ", list));
-
-
-            //Hanoi hanoi = new Hanoi();
-            //hanoi.Solve(5, 'A', 'C', 'B');
-
-            Exercises ex = new Exercises();
-            Console.WriteLine(ex.Multiplication(new List<int>() { 1, 3, 4, 1, 2 }));
-            Console.WriteLine(ex.MultiplicationF(new List<int>() { 1, 3, 4, 1, 2 }));
-
-            Console.WriteLine(ex.MultiplicationR(new List<int>() { 1, 3, 4, 1, 2 }));
-
+            Console.WriteLine("Memoization :" + fib.Memoization(n, new int[n + 1]));
+             
+             Console.WriteLine("Tabulation :" + fib.Tabulation(n));*/
         }
     }
 } 
