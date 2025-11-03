@@ -4,11 +4,19 @@ namespace PAStudents
 {
     class RodCutting
     {
+        int[] _memoization;
+        public int[] Prices { get; private set; }
 
-        int[] prices = new int[] { 0, 1, 5, 8, 9, 10, 17, 17, 20, 24, 30 }; //index komt overeen met unit size
+        public RodCutting(int[] prices)
+        {
+            Prices = prices;
+            _memoization = new int[prices.Length];
+        }
+
+        
         public int Solve(int n)
         {
-            Console.Write(" SOLVE met " + n);
+            Console.Write(" SOLVE " + n);
             if (n == 0) return 0;
 
             int max_r = int.MinValue;
@@ -16,26 +24,46 @@ namespace PAStudents
             for (int i = 1; i <= n; i++)
             {
                 Console.Write(" In de loop ;) ");
-                max_r = Math.Max(max_r, prices[i] + Solve(n - i));
+                max_r = Math.Max(max_r, Prices[i] + Solve(n - i));
             }
 
             return max_r;
         }
-        
+
         public int Memoization(int n)
         {
-            Console.Write( " SOLVE met " + n);
+            Console.Write(" MEM " + n);
+
             if (n == 0) return 0;
+            if (_memoization[n] > 0) return _memoization[n];
 
             int max_r = int.MinValue;
 
             for (int i = 1; i <= n; i++)
             {
-                //Console.Write("Loop ;) ");
-                max_r = Math.Max(max_r, prices[i] + Memoization(n - i));
+                max_r = Math.Max(max_r, Prices[i] + Memoization(n - i));
+                _memoization[n] = max_r;
             }
 
-            return max_r;
+            return _memoization[n];
+        }
+        
+        public int Tabulation(int n)
+        {
+            int[] tabulation = new int[n + 1];
+            tabulation[0] = 0;
+
+            for (int i = 1; i <= n; i++)
+            {
+                int max_r = int.MinValue;
+                for (int j = 0; j <= i; j++)
+                {
+                    max_r = Math.Max(max_r, Prices[j] + tabulation[i-j]);
+                } 
+                tabulation[i] = max_r;
+            }
+
+            return tabulation[n];
         }
     }
 
