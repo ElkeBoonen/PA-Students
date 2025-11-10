@@ -16,6 +16,12 @@ namespace PAStudents
             matrix[end, start] = 1;
         }
 
+        public string DFS(int startnode)
+        {
+            string path = "";
+            return path;
+        }
+
         public override string ToString()
         {
             string result = "***MATRIX OUTPUT\n";
