@@ -33,8 +33,30 @@ namespace PAStudents
             maze.AddEdge(5, 0);
 
             Console.WriteLine(maze.Dijkstra(12,0));
-
             Console.WriteLine(maze.ToString());
+
+            ChickenMaze cm = new ChickenMaze(10);
+
+            cm.AddEdge(1,3,2);
+            cm.AddEdge(1,2,10);
+            cm.AddEdge(1,5,25);
+            cm.AddEdge(2,3,10);
+            cm.AddEdge(2,4,10);
+            cm.AddEdge(2,6,20);
+            cm.AddEdge(3,4,50);
+            cm.AddEdge(3,5,5);
+            cm.AddEdge(4,5,0);
+            cm.AddEdge(4,7,10);
+            cm.AddEdge(5,8,15);
+            cm.AddEdge(6,7,50);
+            cm.AddEdge(6,9,25);
+            cm.AddEdge(7,8,5);
+            cm.AddEdge(7,9,5);
+            cm.AddEdge(8,9,2);
+
+            Console.WriteLine(cm.Dijkstra(1,9));
+            Console.WriteLine(cm.ToString());
+
 
         }
     }
