@@ -32,6 +32,8 @@ namespace PAStudents
             maze.AddEdge(10, 5);
             maze.AddEdge(5, 0);
 
+            Console.WriteLine(maze.Dijkstra(12,0));
+
             Console.WriteLine(maze.ToString());
 
         }
