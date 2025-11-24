@@ -7,7 +7,7 @@ namespace PAStudents
     class Maze2
     {
         List<int>[] adj_list;
-        public Maze(int nodes)
+        public Maze2(int nodes)
         {
             adj_list = new List<int>[nodes];
             for (int i = 0; i < nodes; i ++)
