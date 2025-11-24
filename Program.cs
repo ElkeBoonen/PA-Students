@@ -1,5 +1,6 @@
 using System;
 using System.Security.Cryptography;
+using System.Text;
 
 namespace PAStudents
 {
@@ -7,8 +8,8 @@ namespace PAStudents
     class Program
     {
         static void Main(string[] args)
-        { 
-            Maze maze = new Maze(25);
+        {
+            Maze2 maze = new Maze2(25);
 
             maze.AddEdge(0, 1);
             maze.AddEdge(1, 2);
@@ -33,7 +34,6 @@ namespace PAStudents
 
             Console.WriteLine(maze.ToString());
 
-            Console.WriteLine(maze.DFS(12));
         }
     }
 } 
