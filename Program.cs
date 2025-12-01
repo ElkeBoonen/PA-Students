@@ -10,8 +10,8 @@ namespace PAStudents
         static void Main(string[] args)
         {
 
-           Tree tree = new Tree(new int[]{40, 25, 29, 35, 40, 12});
-
+            Tree tree = new Tree(new int[]{40, 25, 29, 35, 40, 12});
+            tree.PreOrder();
 
         }
     }

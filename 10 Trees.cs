@@ -19,6 +19,11 @@ namespace PAStudents
             Right = null;
         }
 
+        public override string ToString()
+        {
+            return this.Value + " ";
+        }
+
     }
 
     class BinaryTree
