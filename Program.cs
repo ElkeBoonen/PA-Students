@@ -10,29 +10,14 @@ namespace PAStudents
         static void Main(string[] args)
         {
 
-            //in main
-            BinaryTree tree = new BinaryTree();
+            string[] classes = { "art", "eng", "math", "cs", "music"};
+            double[] start = { 9,9.5,10,10.5,11};
+            double[] end = { 10,10.5,11,11.5,12 };
 
-            tree.Add(5);
-            tree.Add(3);
-            tree.Add(7);
-            tree.Add(2);
-            tree.Add(4);
-            tree.Add(6);
-            tree.Add(8);
+            Greedy greedy = new Greedy();
 
-            Console.WriteLine("IN ORDER:");
-            tree.InOrder();
-            Console.WriteLine("\nPRE ORDER:");
-            tree.PreOrder();
-            Console.WriteLine("\nPOST ORDER:");
-            tree.PostOrder();
-
-            Console.WriteLine("\n\n0? " + tree.Search(0));
-            Console.WriteLine("6? " + tree.Search(6));
-            Console.WriteLine(tree.Min());
-            Console.WriteLine(tree.Max());
-
+            List<string> activities = greedy.Activities(classes, start, end);
+            Console.WriteLine(string.Join(" ", activities));
 
         }
     }
